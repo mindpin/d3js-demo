@@ -290,8 +290,8 @@
   "time": "Tue, 6 Aug 2013 17:12:34 +0800",
   "tree": "a0a1b32551d6f26fbd76f0896bde4426c9b4d7af",
   "modified_files": [ {
-    "path": "M",
-    "size": ""
+    "path": "app/models/one_course_intent.rb",
+    "size": "5310"
   } ]
 }, {
   "hash": "1a3f19f32affb9d4321b482a3dcc6ba7d3847be2",
@@ -311,8 +311,8 @@
   "time": "Tue, 6 Aug 2013 16:47:10 +0800",
   "tree": "c4bfbd915f2afd7cf01eb197345d5ef23337ea0c",
   "modified_files": [ {
-    "path": "M",
-    "size": ""
+    "path": "app/models/one_course_intent.rb",
+    "size": "5178"
   } ]
 }, {
   "hash": "b966c147f7aab98cceb60afb42bebef1b02120aa",
@@ -332,8 +332,8 @@
   "time": "Tue, 6 Aug 2013 14:13:53 +0800",
   "tree": "c2b48051a2f0b20f944565eaeeb39d36e378fcf6",
   "modified_files": [ {
-    "path": "M",
-    "size": ""
+    "path": "app/models/one_course_intent.rb",
+    "size": "4743"
   } ]
 }, {
   "hash": "8ab87a8cb9ee828251d082fc16539c4e66653d0f",
@@ -350,8 +350,8 @@
   "time": "Tue, 6 Aug 2013 13:45:59 +0800",
   "tree": "8d32256b2feec993e15f1987817bd805017f4411",
   "modified_files": [ {
-    "path": "M",
-    "size": ""
+    "path": "app/models/one_course_intent.rb",
+    "size": "4570"
   } ]
 }, {
   "hash": "af863a3a8b353c24766d214aef3b23c28d5e5a29",
@@ -601,8 +601,8 @@
   "time": "Mon, 5 Aug 2013 17:02:16 +0800",
   "tree": "5d2650b5e90d564603ea40fad8ac47569183b946",
   "modified_files": [ {
-    "path": "M",
-    "size": ""
+    "path": "app/models/course.rb",
+    "size": "10210"
   } ]
 }, {
   "hash": "00731dd6b4d9912dc110d10b87e86a42ce493813",
@@ -1260,8 +1260,8 @@
   "time": "Wed, 31 Jul 2013 11:51:19 +0800",
   "tree": "f1e5286bf8ac3fdc0284f7cc096ac933497519c5",
   "modified_files": [ {
-    "path": "M",
-    "size": ""
+    "path": "app/models/course.rb",
+    "size": "10177"
   } ]
 }, {
   "hash": "125801112afa94a88889bc94ee7e2b9ad3b9cd60",
@@ -1398,8 +1398,8 @@
   "time": "Tue, 30 Jul 2013 18:00:54 +0800",
   "tree": "19221718a456bd6b7e97e42c8646a6a3ee7146c0",
   "modified_files": [ {
-    "path": "M",
-    "size": ""
+    "path": "app/models/select_course_intent.rb",
+    "size": "2084"
   } ]
 }, {
   "hash": "f4e325cea448bb352309f2960f3c76519a4d7736",
@@ -1437,8 +1437,8 @@
   "time": "Tue, 30 Jul 2013 17:17:28 +0800",
   "tree": "95e4ee804bf1a56d45c30878cc97b4ded7e28e63",
   "modified_files": [ {
-    "path": "M",
-    "size": ""
+    "path": "app/models/course.rb",
+    "size": "9433"
   } ]
 }, {
   "hash": "9bc9ea3c181b9cdd8b1320559e56c445ba6462f8",
@@ -1657,8 +1657,8 @@
   "time": "Mon, 29 Jul 2013 17:03:05 +0800",
   "tree": "28ea51c5c91b42b64f6d6399dd44ed4a74e50d14",
   "modified_files": [ {
-    "path": "M",
-    "size": ""
+    "path": "app/models/course.rb",
+    "size": "9199"
   } ]
 }, {
   "hash": "6f7d26c40bf3a70c9fed63da9b5a44e2e88211ed",
@@ -1845,11 +1845,11 @@
   "time": "Mon, 29 Jul 2013 10:35:11 +0800",
   "tree": "50589642e6d716d9cafe469b688e7a8b38760db5",
   "modified_files": [ {
-    "path": "M",
-    "size": ""
+    "path": ".gitignore",
+    "size": "496"
   }, {
-    "path": "M",
-    "size": ""
+    "path": "README.md",
+    "size": "1334"
   } ]
 }, {
   "hash": "9fc2cbd93a5672cf278c8422cd02283ce5ba1113",
@@ -1993,8 +1993,8 @@
   "time": "Fri, 26 Jul 2013 14:52:22 +0800",
   "tree": "06d048389f9b9bb9fc7a639563b2b7dea3098f74",
   "modified_files": [ {
-    "path": "M",
-    "size": ""
+    "path": "Gemfile",
+    "size": "4568"
   } ]
 }, {
   "hash": "745dd2e1b7c93030f01e02592ef54e702672bee7",
@@ -2197,8 +2197,8 @@
   "time": "Tue, 23 Jul 2013 15:59:23 +0800",
   "tree": "9d5e8ba29ce9100aa8eb1391dbe5371ed2ed4d11",
   "modified_files": [ {
-    "path": "M",
-    "size": ""
+    "path": "app/models/user.rb",
+    "size": "6593"
   } ]
 }, {
   "hash": "df7cc23af093942a28984643da0075690dd67faf",
@@ -2246,8 +2246,8 @@
   "time": "Tue, 23 Jul 2013 10:32:56 +0800",
   "tree": "352430350aa1a3e945eb4b50a31377542f91ef87",
   "modified_files": [ {
-    "path": "M",
-    "size": ""
+    "path": "app/models/user.rb",
+    "size": "6557"
   } ]
 }, {
   "hash": "84f64b311618b7d0090f7820ce2313b36eef4e1f",
@@ -2419,8 +2419,8 @@
   "time": "Fri, 19 Jul 2013 11:05:05 +0800",
   "tree": "b1b24628ce574d3eeffe8bab1da3d621df3f2992",
   "modified_files": [ {
-    "path": "M",
-    "size": ""
+    "path": "spec/models/java_steps_check_spec.rb",
+    "size": "5252"
   } ]
 }, {
   "hash": "71a80a5fa60f7e8d5be12f9753064cfe8a607a23",
@@ -3098,8 +3098,8 @@
   "time": "Wed, 10 Jul 2013 13:34:34 +0800",
   "tree": "f2fef9efe008a25de5aa2072190e1264763f503a",
   "modified_files": [ {
-    "path": "M",
-    "size": ""
+    "path": "config/deploy.rb",
+    "size": "3991"
   } ]
 }, {
   "hash": "00104ffcd936ff4a2fb5bbf5ecee4cb5961b2c59",
@@ -3629,11 +3629,11 @@
   "time": "Thu, 4 Jul 2013 12:08:45 +0800",
   "tree": "f58021cb547ff824220ddf340d27735ff50ba010",
   "modified_files": [ {
-    "path": "M",
-    "size": ""
+    "path": "app/controllers/manage/course_wares_controller.rb",
+    "size": "3055"
   }, {
-    "path": "M",
-    "size": ""
+    "path": "app/controllers/manage/courses_controller.rb",
+    "size": "2788"
   } ]
 }, {
   "hash": "894a29b325d63a08e9d7f6f567733639e8048d43",
@@ -3680,8 +3680,8 @@
   "time": "Thu, 4 Jul 2013 09:28:06 +0800",
   "tree": "a477f2bd7446a17ee21e07fdf25b97d522adc02f",
   "modified_files": [ {
-    "path": "M",
-    "size": ""
+    "path": "app/models/step_history.rb",
+    "size": "3475"
   } ]
 }, {
   "hash": "00d24067517aad372739fcbf06d6c00fb9a2b86e",
@@ -4036,8 +4036,8 @@
   "time": "Mon, 1 Jul 2013 15:06:29 +0800",
   "tree": "5048c37f0c6698e54f11a07f69ce3bc4c19a3540",
   "modified_files": [ {
-    "path": "M",
-    "size": ""
+    "path": "app/models/step_history.rb",
+    "size": "3443"
   } ]
 }, {
   "hash": "de7376bb37a5b0cc0070cb283bf2465dcb375b0e",
@@ -4045,8 +4045,8 @@
   "time": "Mon, 1 Jul 2013 15:03:47 +0800",
   "tree": "c883701016e8ab85d79f34b19f52810919385793",
   "modified_files": [ {
-    "path": "M",
-    "size": ""
+    "path": "app/models/step_history.rb",
+    "size": "3443"
   } ]
 }, {
   "hash": "71415fa0ebd7efd68ad68253ad662008a4641862",
@@ -4356,11 +4356,11 @@
   "time": "Wed, 26 Jun 2013 11:58:12 +0800",
   "tree": "15e1e2e525825a5285e6d1ba73d8d64a16a0dc1d",
   "modified_files": [ {
-    "path": "M",
-    "size": ""
+    "path": "app/models/course_ware.rb",
+    "size": "4810"
   }, {
-    "path": "M",
-    "size": ""
+    "path": "app/models/sql_step.rb",
+    "size": "989"
   } ]
 }, {
   "hash": "c5007a67ef5e390475d72d245f23dfc98f7eda87",
@@ -4455,8 +4455,8 @@
   "time": "Wed, 26 Jun 2013 10:19:05 +0800",
   "tree": "12fb804651a371116691dc5aedddf06ca4dafd24",
   "modified_files": [ {
-    "path": "M",
-    "size": ""
+    "path": "app/models/course_ware.rb",
+    "size": "4787"
   } ]
 }, {
   "hash": "7fc9a350e109119ffbc5b15a2710a264014686da",
@@ -4619,8 +4619,8 @@
   "time": "Mon, 24 Jun 2013 16:14:18 +0800",
   "tree": "0b8033d4740bb7cc5ec5bf1a0a0573c53641fcdf",
   "modified_files": [ {
-    "path": "M",
-    "size": ""
+    "path": "app/models/course_ware.rb",
+    "size": "4765"
   } ]
 }, {
   "hash": "21a15fa48565b678692e1b2813e30946fdae4f95",
@@ -4642,550 +4642,550 @@
   "time": "Mon, 24 Jun 2013 09:30:16 +0800",
   "tree": "de2daf27c89d7842d2dccf3cf053258a0a0f47aa",
   "modified_files": [ {
-    "path": "M",
-    "size": ""
+    "path": "app/assets/javascripts/application.js",
+    "size": "912"
   }, {
-    "path": "M",
-    "size": ""
+    "path": "app/assets/javascripts/charts.js.coffee",
+    "size": "7697"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "app/assets/stylesheets/application.scss",
+    "size": "77892"
   }, {
-    "path": "M",
-    "size": ""
+    "path": "app/assets/stylesheets/html5-boilerplate/normalize.css",
+    "size": "9611"
   }, {
-    "path": "M",
-    "size": ""
+    "path": "app/controllers/course_wares_controller.rb",
+    "size": "1181"
   }, {
-    "path": "M",
-    "size": ""
+    "path": "app/controllers/javascript_steps_controller.rb",
+    "size": "371"
   }, {
-    "path": "M",
-    "size": ""
+    "path": "app/controllers/manage/course_wares_controller.rb",
+    "size": "2361"
   }, {
-    "path": "M",
-    "size": ""
+    "path": "app/models/course_ware.rb",
+    "size": "4417"
   }, {
-    "path": "M",
-    "size": ""
+    "path": "app/models/course_ware_kind_methods.rb",
+    "size": "951"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "app/views/course_wares/show.html.haml",
+    "size": "2158"
   }, {
-    "path": "M",
-    "size": ""
+    "path": "app/views/layouts/course_ware_show.html.haml",
+    "size": "986"
   }, {
-    "path": "M",
-    "size": ""
+    "path": "app/views/manage/chapters/show.html.haml",
+    "size": "2494"
   }, {
-    "path": "M",
-    "size": ""
+    "path": "app/views/manage/course_wares/edit.html.haml",
+    "size": "2401"
   }, {
-    "path": "M",
-    "size": ""
+    "path": "app/views/manage/course_wares/new.html.haml",
+    "size": "2161"
   }, {
-    "path": "M",
-    "size": ""
+    "path": "app/views/users/courses.html.haml",
+    "size": "172"
   }, {
-    "path": "M",
-    "size": ""
+    "path": "config/initializers/r.rb",
+    "size": "1371"
   }, {
-    "path": "M",
-    "size": ""
-  }, {
-    "path": "M",
-    "size": ""
+    "path": "config/routes.rb",
+    "size": "6182"
   } ],
   "added_files": [ {
-    "path": "A",
-    "size": ""
+    "path": "app/assets/javascripts/course-manage.js.coffee",
+    "size": "3075"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "app/assets/javascripts/javascript-steps.js.coffee",
+    "size": "4026"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "app/cells/course_ware/javascript.html.haml",
+    "size": "1072"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "app/cells/course_ware/javascript_steps_form.html.haml",
+    "size": "1240"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "app/cells/course_ware/pages.html.haml",
+    "size": "774"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "app/cells/course_ware/video.html.haml",
+    "size": "944"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "app/cells/course_ware/widget.html.haml",
+    "size": "363"
   }, {
-    "path": "M",
-    "size": ""
+    "path": "app/cells/course_ware_cell.rb",
+    "size": "900"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "app/models/step_history.rb",
+    "size": "2045"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "db/migrate/20130621063543_add_title_and_hint_to_javascript_steps.rb",
+    "size": "232"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/ace.js",
+    "size": "302977"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/ext-elastic_tabstops_lite.js",
+    "size": "3697"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/ext-emmet.js",
+    "size": "4853"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/ext-keybinding_menu.js",
+    "size": "3513"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/ext-modelist.js",
+    "size": "2491"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/ext-options.js",
+    "size": "4745"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/ext-searchbox.js",
+    "size": "9774"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/ext-settings_menu.js",
+    "size": "10421"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/ext-spellcheck.js",
+    "size": "1259"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/ext-static_highlight.js",
+    "size": "1543"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/ext-statusbar.js",
+    "size": "921"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/ext-textarea.js",
+    "size": "6740"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/ext-themelist.js",
+    "size": "1032"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/ext-whitespace.js",
+    "size": "2355"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/keybinding-emacs.js",
+    "size": "21415"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/keybinding-vim.js",
+    "size": "24379"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/mode-abap.js",
+    "size": "6044"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/mode-actionscript.js",
+    "size": "19262"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/mode-ada.js",
+    "size": "1773"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/mode-asciidoc.js",
+    "size": "8140"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/mode-assembly_x86.js",
+    "size": "8859"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/mode-autohotkey.js",
+    "size": "62362"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/mode-batchfile.js",
+    "size": "3519"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/mode-c9search.js",
+    "size": "2612"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/mode-c_cpp.js",
+    "size": "14627"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/mode-clojure.js",
+    "size": "7457"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/mode-cobol.js",
+    "size": "2322"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/mode-coffee.js",
+    "size": "7595"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/mode-coldfusion.js",
+    "size": "40308"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/mode-csharp.js",
+    "size": "11135"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/mode-css.js",
+    "size": "18848"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/mode-curly.js",
+    "size": "43038"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/mode-d.js",
+    "size": "24890"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/mode-dart.js",
+    "size": "17771"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/mode-diff.js",
+    "size": "2382"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/mode-django.js",
+    "size": "43299"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/mode-dot.js",
+    "size": "6194"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/mode-ejs.js",
+    "size": "51152"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/mode-erlang.js",
+    "size": "28451"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/mode-forth.js",
+    "size": "5742"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/mode-ftl.js",
+    "size": "26302"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/mode-glsl.js",
+    "size": "16780"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/mode-golang.js",
+    "size": "10790"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/mode-groovy.js",
+    "size": "23927"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/mode-haml.js",
+    "size": "8947"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/mode-haskell.js",
+    "size": "10185"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/mode-haxe.js",
+    "size": "10667"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/mode-html.js",
+    "size": "41898"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/mode-html_ruby.js",
+    "size": "51275"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/mode-ini.js",
+    "size": "2935"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/mode-jade.js",
+    "size": "51186"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/mode-java.js",
+    "size": "23341"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/mode-javascript.js",
+    "size": "19534"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/mode-json.js",
+    "size": "9331"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/mode-jsoniq.js",
+    "size": "231358"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/mode-jsp.js",
+    "size": "34642"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/mode-jsx.js",
+    "size": "11106"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/mode-julia.js",
+    "size": "6083"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/mode-latex.js",
+    "size": "3063"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/mode-less.js",
+    "size": "16721"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/mode-liquid.js",
+    "size": "25089"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/mode-lisp.js",
+    "size": "1943"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/mode-livescript.js",
+    "size": "5169"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/mode-logiql.js",
+    "size": "11183"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/mode-lsl.js",
+    "size": "28741"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/mode-lua.js",
+    "size": "7251"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/mode-luapage.js",
+    "size": "50275"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/mode-lucene.js",
+    "size": "1117"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/mode-makefile.js",
+    "size": "4537"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/mode-markdown.js",
+    "size": "49020"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/mode-matlab.js",
+    "size": "19864"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/mode-mushcode.js",
+    "size": "6675"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/mode-mushcode_high_rules.js",
+    "size": "4835"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/mode-mysql.js",
+    "size": "6378"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/mode-objectivec.js",
+    "size": "52766"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/mode-ocaml.js",
+    "size": "15558"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/mode-pascal.js",
+    "size": "4526"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/mode-perl.js",
+    "size": "6077"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/mode-pgsql.js",
+    "size": "38349"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/mode-php.js",
+    "size": "142152"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/mode-powershell.js",
+    "size": "13560"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/mode-prolog.js",
+    "size": "7217"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/mode-properties.js",
+    "size": "1045"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/mode-python.js",
+    "size": "4635"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/mode-r.js",
+    "size": "5003"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/mode-rdoc.js",
+    "size": "3355"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/mode-rhtml.js",
+    "size": "46990"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/mode-ruby.js",
+    "size": "8553"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/mode-rust.js",
+    "size": "5682"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/mode-sass.js",
+    "size": "10170"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/mode-scad.js",
+    "size": "10681"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/mode-scala.js",
+    "size": "23626"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/mode-scheme.js",
+    "size": "1911"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/mode-scss.js",
+    "size": "17176"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/mode-sh.js",
+    "size": "2835"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/mode-snippets.js",
+    "size": "3681"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/mode-sql.js",
+    "size": "1456"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/mode-stylus.js",
+    "size": "13760"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/mode-svg.js",
+    "size": "28773"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/mode-tcl.js",
+    "size": "4841"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/mode-tex.js",
+    "size": "2719"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/mode-text.js",
+    "size": "0"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/mode-textile.js",
+    "size": "2030"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/mode-tmsnippet.js",
+    "size": "3682"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/mode-toml.js",
+    "size": "2402"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/mode-twig.js",
+    "size": "44952"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/mode-typescript.js",
+    "size": "21665"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/mode-vbscript.js",
+    "size": "5353"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/mode-velocity.js",
+    "size": "34671"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/mode-verilog.js",
+    "size": "2523"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/mode-xml.js",
+    "size": "12361"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/mode-xquery.js",
+    "size": "231709"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/mode-yaml.js",
+    "size": "3978"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/theme-ambiance.js",
+    "size": "27704"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/theme-chaos.js",
+    "size": "2833"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/theme-chrome.js",
+    "size": "2834"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/theme-clouds.js",
+    "size": "2279"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/theme-clouds_midnight.js",
+    "size": "2651"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/theme-cobalt.js",
+    "size": "2493"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/theme-crimson_editor.js",
+    "size": "2933"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/theme-dawn.js",
+    "size": "2392"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/theme-dreamweaver.js",
+    "size": "3195"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/theme-eclipse.js",
+    "size": "2067"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/theme-github.js",
+    "size": "2426"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/theme-idle_fingers.js",
+    "size": "2497"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/theme-kr.js",
+    "size": "2475"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/theme-merbivore.js",
+    "size": "2441"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/theme-merbivore_soft.js",
+    "size": "2663"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/theme-mono_industrial.js",
+    "size": "3008"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/theme-monokai.js",
+    "size": "2495"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/theme-pastel_on_dark.js",
+    "size": "2848"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/theme-solarized_dark.js",
+    "size": "2579"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/theme-solarized_light.js",
+    "size": "2578"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/theme-terminal.js",
+    "size": "3142"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/theme-textmate.js",
+    "size": "0"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/theme-tomorrow.js",
+    "size": "2759"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/theme-tomorrow_night.js",
+    "size": "3003"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/theme-tomorrow_night_blue.js",
+    "size": "3234"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/theme-tomorrow_night_bright.js",
+    "size": "3324"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/theme-tomorrow_night_eighties.js",
+    "size": "3360"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/theme-twilight.js",
+    "size": "2651"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/theme-vibrant_ink.js",
+    "size": "2342"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/theme-xcode.js",
+    "size": "2146"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/worker-coffee.js",
+    "size": "219790"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/worker-css.js",
+    "size": "129870"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/worker-javascript.js",
+    "size": "80876"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/worker-json.js",
+    "size": "29850"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/worker-lua.js",
+    "size": "43037"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/worker-php.js",
+    "size": "131332"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "public/ace/src-min-noconflict/worker-xquery.js",
+    "size": "475733"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "vendor/assets/javascripts/jqconsole/jqconsole.js",
+    "size": "48357"
+  }, {
+    "path": "vendor/assets/stylesheets/jqconsole/ansi.css",
+    "size": "3654"
   } ],
   "deleted_files": [ {
-    "path": "D"
+    "path": "app/cells/course_ware_widget/pages.html.haml"
   }, {
-    "path": "D"
+    "path": "app/cells/course_ware_widget/video.html.haml"
   }, {
-    "path": "D"
+    "path": "app/cells/course_ware_widget_cell.rb"
   } ]
 }, {
   "hash": "173e308a833ca31dc2f51ad20ba523f24cd2f949",
@@ -5292,11 +5292,11 @@
   "time": "Thu, 20 Jun 2013 11:57:29 +0800",
   "tree": "76b6d71e49b2d4217c8f4b6bcb88ee556a2752f9",
   "modified_files": [ {
-    "path": "M",
-    "size": ""
+    "path": "Gemfile",
+    "size": "4166"
   }, {
-    "path": "M",
-    "size": ""
+    "path": "config/routes.rb",
+    "size": "5930"
   } ]
 }, {
   "hash": "b0a660217945c0d1084840bf8bdd5ba5813224f6",
@@ -5380,11 +5380,11 @@
   "time": "Wed, 19 Jun 2013 17:09:54 +0800",
   "tree": "173b8d435b17d4edaa2ab0e7d17888b6f4a4c7a3",
   "modified_files": [ {
-    "path": "M",
-    "size": ""
+    "path": "app/models/course_ware.rb",
+    "size": "4360"
   }, {
-    "path": "M",
-    "size": ""
+    "path": "config/routes.rb",
+    "size": "5879"
   } ]
 }, {
   "hash": "28655039c5ad5fa42213d7b3b57c0f4374458c4e",
@@ -5533,8 +5533,8 @@
   "time": "Wed, 19 Jun 2013 11:45:35 +0800",
   "tree": "19c79a37496944e860c758ad4c4c5bc3b765dea8",
   "modified_files": [ {
-    "path": "M",
-    "size": ""
+    "path": "app/models/course_ware.rb",
+    "size": "4225"
   } ]
 }, {
   "hash": "ba5532a8796c7ae62648f21da35b2f178a7c2285",
@@ -5710,8 +5710,8 @@
   "time": "Tue, 18 Jun 2013 14:44:16 +0800",
   "tree": "c78bcb30480eac324662bb1eb35ede05f88d08bc",
   "modified_files": [ {
-    "path": "M",
-    "size": ""
+    "path": "app/models/course_ware.rb",
+    "size": "4201"
   } ]
 }, {
   "hash": "1523d4a0da9096cd591423802567801ffab39b1d",
@@ -5789,8 +5789,8 @@
   "time": "Mon, 17 Jun 2013 19:09:57 +0800",
   "tree": "fede817496841a72f996d2a953ea059699b7ed20",
   "modified_files": [ {
-    "path": "M",
-    "size": ""
+    "path": "app/controllers/courses_controller.rb",
+    "size": "856"
   } ]
 }, {
   "hash": "62a8382446ff361ef38530194a968e8435740aa0",
@@ -5798,11 +5798,11 @@
   "time": "Mon, 17 Jun 2013 19:09:56 +0800",
   "tree": "9056a69ce8e37d82f60fa02396f9a861c79afaf8",
   "modified_files": [ {
-    "path": "M",
-    "size": ""
+    "path": "app/models/course.rb",
+    "size": "6838"
   }, {
-    "path": "M",
-    "size": ""
+    "path": "app/models/course_ware.rb",
+    "size": "4188"
   } ]
 }, {
   "hash": "47324e3e64d92999227dec9939b346e59b0e2661",
@@ -5900,11 +5900,11 @@
   "time": "Mon, 17 Jun 2013 17:21:06 +0800",
   "tree": "9fc71ed838123f370b950492fdffb9e25abad767",
   "modified_files": [ {
-    "path": "M",
-    "size": ""
+    "path": "app/models/course.rb",
+    "size": "6767"
   }, {
-    "path": "M",
-    "size": ""
+    "path": "app/models/user.rb",
+    "size": "6134"
   } ]
 }, {
   "hash": "ef2ccf1400397017eda519aa45078fdfd46e065a",
@@ -6352,14 +6352,14 @@
   "time": "Thu, 13 Jun 2013 18:38:47 +0800",
   "tree": "4c83d12ae24b38667b255ed4a90330bbdd9e6a0a",
   "modified_files": [ {
-    "path": "M",
-    "size": ""
+    "path": "Gemfile",
+    "size": "4164"
   }, {
-    "path": "M",
-    "size": ""
+    "path": "app/models/user.rb",
+    "size": "6068"
   }, {
-    "path": "M",
-    "size": ""
+    "path": "config/routes.rb",
+    "size": "5252"
   } ]
 }, {
   "hash": "b87b8005a8becd21cea66c6f1bc517ea638e2f54",
@@ -6648,17 +6648,17 @@
   "time": "Sun, 9 Jun 2013 16:19:16 +0800",
   "tree": "7ce483d1656db743e6665a4f1a5421efc722c8f3",
   "modified_files": [ {
-    "path": "M",
-    "size": ""
+    "path": "Gemfile",
+    "size": "4060"
   }, {
-    "path": "M",
-    "size": ""
+    "path": "app/controllers/oauth_controller.rb",
+    "size": "618"
   }, {
-    "path": "M",
-    "size": ""
+    "path": "app/models/question.rb",
+    "size": "3144"
   }, {
-    "path": "M",
-    "size": ""
+    "path": "app/models/user.rb",
+    "size": "5673"
   } ]
 }, {
   "hash": "45242245afb56549299d0af9709137843407069e",
@@ -6880,8 +6880,8 @@
   "time": "Sat, 8 Jun 2013 15:04:36 +0800",
   "tree": "d714849fb71ed07ee3c431fd6cdee54d4844c592",
   "modified_files": [ {
-    "path": "M",
-    "size": ""
+    "path": "Gemfile",
+    "size": "4060"
   } ]
 }, {
   "hash": "dd5d7454bbd6c83d5616560fd5834a5ba4e02e6e",
@@ -6889,11 +6889,11 @@
   "time": "Sat, 8 Jun 2013 14:58:35 +0800",
   "tree": "87991a8d44c6873ad184343807786a43c36725f7",
   "modified_files": [ {
-    "path": "M",
-    "size": ""
+    "path": "Gemfile",
+    "size": "4043"
   }, {
-    "path": "M",
-    "size": ""
+    "path": "app/models/question.rb",
+    "size": "3144"
   } ]
 }, {
   "hash": "10a0195f7fd0e182ee7592998fe24d4dd828d104",
@@ -7008,8 +7008,8 @@
   "time": "Thu, 6 Jun 2013 19:10:52 +0800",
   "tree": "e7a620fb01b068eeb840007cb69ff17cde2b15d3",
   "modified_files": [ {
-    "path": "M",
-    "size": ""
+    "path": "app/models/omniauth.rb",
+    "size": "3711"
   } ]
 }, {
   "hash": "8411fc8c5624ba9f96e4804368e73ff06d8f20f8",
@@ -7177,8 +7177,8 @@
   "time": "Thu, 6 Jun 2013 11:46:38 +0800",
   "tree": "5487f60d0e17497ba7913fcd12b3e09e4a426c6d",
   "modified_files": [ {
-    "path": "M",
-    "size": ""
+    "path": "app/models/omniauth.rb",
+    "size": "3669"
   } ]
 }, {
   "hash": "b4d1e1b9778879f1e698d1b9d319a6565534b838",
@@ -7202,8 +7202,8 @@
   "time": "Thu, 6 Jun 2013 11:41:26 +0800",
   "tree": "1d02c10370b6320d4afa4e67c7e0f728c8bf0036",
   "modified_files": [ {
-    "path": "M",
-    "size": ""
+    "path": "app/models/omniauth.rb",
+    "size": "3671"
   } ]
 }, {
   "hash": "30026c80f63a65a435fd720a03ad3d1de3ce8c5b",
@@ -7289,8 +7289,8 @@
   "time": "Thu, 6 Jun 2013 10:31:43 +0800",
   "tree": "f4c12c6ef75142c2aba668a6a366230881bdf4c3",
   "modified_files": [ {
-    "path": "M",
-    "size": ""
+    "path": "app/models/omniauth.rb",
+    "size": "3794"
   } ]
 }, {
   "hash": "c17ce7a774ef0c887ce767289014a54ff8e26eb7",
@@ -8067,8 +8067,8 @@
   "time": "Thu, 30 May 2013 15:39:04 +0800",
   "tree": "16a011ab8fe3530c662f49ce4988410e60d65c0b",
   "modified_files": [ {
-    "path": "M",
-    "size": ""
+    "path": "Gemfile",
+    "size": "4066"
   } ]
 }, {
   "hash": "d06d27f03295e1c4a10bae66cdfb29c0bc673ff5",
@@ -8347,8 +8347,8 @@
   "time": "Tue, 28 May 2013 16:31:46 +0800",
   "tree": "07b982ae98b3e45b8b4ce3be12d5831886bef461",
   "modified_files": [ {
-    "path": "M",
-    "size": ""
+    "path": "app/models/course.rb",
+    "size": "5439"
   } ]
 }, {
   "hash": "018bda6e038c5fdf48606dd490c4986c48d4eb9e",
@@ -8426,11 +8426,11 @@
   "time": "Tue, 28 May 2013 15:11:35 +0800",
   "tree": "1d0168e3a8427a157d5b0c5487ac8caf53e3f96b",
   "modified_files": [ {
-    "path": "M",
-    "size": ""
+    "path": "app/models/course.rb",
+    "size": "5691"
   }, {
-    "path": "M",
-    "size": ""
+    "path": "spec/models/question_spec.rb",
+    "size": "12644"
   } ]
 }, {
   "hash": "d6747c23b70450d2f0f3b29af6536761cb022a0b",
@@ -8545,8 +8545,8 @@
   "time": "Tue, 28 May 2013 10:03:51 +0800",
   "tree": "9fd8dca595e0bc2eb1c3358cc0c6d7876d0030a0",
   "modified_files": [ {
-    "path": "M",
-    "size": ""
+    "path": "Gemfile",
+    "size": "4066"
   } ]
 }, {
   "hash": "a18c29a06809a7bff893fa33467c3faf04210968",
@@ -9437,8 +9437,8 @@
   "time": "Wed, 22 May 2013 18:25:51 +0800",
   "tree": "fd2050a36df442c82d87f62414014ac2a2637c2d",
   "modified_files": [ {
-    "path": "M",
-    "size": ""
+    "path": "Gemfile",
+    "size": "3855"
   } ]
 }, {
   "hash": "f0c8d07f2e9efefc04589678e8fc1229e5496693",
@@ -9570,8 +9570,8 @@
   "time": "Tue, 21 May 2013 17:46:58 +0800",
   "tree": "08bbc8678e2e4073d38193d999edf7f148b3c91b",
   "modified_files": [ {
-    "path": "M",
-    "size": ""
+    "path": "app/models/question.rb",
+    "size": "3004"
   } ]
 }, {
   "hash": "196421806175c96ac4a33f06d6b9906683e878c7",
@@ -10152,11 +10152,11 @@
   "time": "Thu, 16 May 2013 16:16:17 +0800",
   "tree": "2882ddfe95a376c221542e755cbdf06c467d002a",
   "modified_files": [ {
-    "path": "M",
-    "size": ""
+    "path": "app/models/follow.rb",
+    "size": "1433"
   }, {
-    "path": "M",
-    "size": ""
+    "path": "spec/models/follow_spec.rb",
+    "size": "1610"
   } ]
 }, {
   "hash": "5ed7c5595451586f39d84d0e52f860d5dd8edda9",
@@ -10288,8 +10288,8 @@
   "time": "Wed, 15 May 2013 17:57:22 +0800",
   "tree": "3088222db00f83b65f97df3123031f050b48d941",
   "modified_files": [ {
-    "path": "M",
-    "size": ""
+    "path": "config/routes.rb",
+    "size": "3837"
   } ]
 }, {
   "hash": "a3e94a3d5fcdae475c8b55f20740c0660d1116a7",
@@ -10662,8 +10662,8 @@
   "time": "Tue, 14 May 2013 15:04:05 +0800",
   "tree": "06605d857918baa34c309fc44fdd87b2c8e1c6c9",
   "modified_files": [ {
-    "path": "M",
-    "size": ""
+    "path": "app/models/course.rb",
+    "size": "5314"
   } ]
 }, {
   "hash": "d97cad6c3c29831ec131da5ccc7fe6ad4ee2d223",
@@ -11218,8 +11218,8 @@
   "time": "Wed, 8 May 2013 16:08:53 +0800",
   "tree": "3966f2cc0f92d082a8ce097bfc822a6158a93782",
   "modified_files": [ {
-    "path": "M",
-    "size": ""
+    "path": "config/routes.rb",
+    "size": "3752"
   } ]
 }, {
   "hash": "ffe34cebd724dc8369a1d45d8b4812b3ffdabb95",
@@ -11423,8 +11423,8 @@
   "time": "Mon, 6 May 2013 17:52:09 +0800",
   "tree": "d64b5571be402c9199f18b177b87d4f386e2d7f6",
   "modified_files": [ {
-    "path": "M",
-    "size": ""
+    "path": "app/models/user.rb",
+    "size": "2912"
   } ]
 }, {
   "hash": "4eeafe5594ec8597e9bb8bf2ab0c0e08db0884ba",
@@ -11747,8 +11747,8 @@
   "time": "Thu, 2 May 2013 15:43:16 +0800",
   "tree": "171ce936895532eec36cc9eb77d6e8a104ebbe33",
   "modified_files": [ {
-    "path": "M",
-    "size": ""
+    "path": "app/models/course.rb",
+    "size": "2936"
   } ]
 }, {
   "hash": "ba0fe6b27e3efb15b0e89ae1e5d74674a93dc6c4",
@@ -11816,8 +11816,8 @@
   "time": "Thu, 2 May 2013 12:42:11 +0800",
   "tree": "d9a35c7dacfbe9f6510b49c1f301fc896d94f4b6",
   "modified_files": [ {
-    "path": "M",
-    "size": ""
+    "path": "app/models/course.rb",
+    "size": "2896"
   } ]
 }, {
   "hash": "9e9d3aee6246b1017ec3495b874cf7b9049a67fa",
@@ -11846,8 +11846,8 @@
   "time": "Thu, 2 May 2013 12:05:39 +0800",
   "tree": "838d019514a336fb2566f096e518efd94f3c7764",
   "modified_files": [ {
-    "path": "M",
-    "size": ""
+    "path": "app/models/question.rb",
+    "size": "3707"
   } ]
 }, {
   "hash": "e8c07049b741cbe8149813d95dc1bed148b4d63c",
@@ -12036,26 +12036,27 @@
   "time": "Sun, 28 Apr 2013 11:09:56 +0800",
   "tree": "9c4d7d618438e78f84c881a9036e856fc08457d0",
   "modified_files": [ {
-    "path": "M",
-    "size": ""
+    "path": "app/models/chapter.rb",
+    "size": "1354"
   }, {
-    "path": "M",
-    "size": ""
+    "path": "app/models/course.rb",
+    "size": "1717"
   }, {
-    "path": "M",
-    "size": ""
+    "path": "app/models/course_interactive.rb",
+    "size": "3170"
   }, {
-    "path": "M",
-    "size": ""
+    "path": "app/models/course_ware.rb",
+    "size": "3569"
   }, {
-    "path": "M",
-    "size": ""
+    "path": "app/models/course_ware_reading.rb",
+    "size": "1077"
   }, {
-    "path": "M",
-    "size": ""
-  }, {
-    "path": "A",
-    "size": ""
+    "path": "app/models/question.rb",
+    "size": "3659"
+  } ],
+  "added_files": [ {
+    "path": "spec/models/course/course_interactive_spec.rb",
+    "size": "3566"
   } ]
 }, {
   "hash": "aabdd42085c5fbf3986faa43265d8da4c1b5b799",
@@ -12614,8 +12615,8 @@
   "time": "Tue, 23 Apr 2013 15:05:45 +0800",
   "tree": "1704e3e017ea1893572bbbd870dfebf16b15499f",
   "modified_files": [ {
-    "path": "M",
-    "size": ""
+    "path": "app/models/user.rb",
+    "size": "2761"
   } ]
 }, {
   "hash": "50342041d37662de222e3eb937351e175ca81bde",
@@ -12662,8 +12663,8 @@
   "time": "Tue, 23 Apr 2013 12:51:04 +0800",
   "tree": "9c1d1eaf4be28bf2e15b582be38a3b8f83d278b5",
   "modified_files": [ {
-    "path": "M",
-    "size": ""
+    "path": "app/models/user.rb",
+    "size": "2688"
   } ]
 }, {
   "hash": "fd0180669116c4be4a2c0384f3a4cd9467ccd8b4",
@@ -12671,8 +12672,8 @@
   "time": "Tue, 23 Apr 2013 12:28:18 +0800",
   "tree": "abf18453b36bf1f9eb852bde90327eb31bf11e26",
   "modified_files": [ {
-    "path": "M",
-    "size": ""
+    "path": "app/models/user.rb",
+    "size": "2681"
   } ]
 }, {
   "hash": "bcef5a181db40bd1d0f7563b436d4bd90c56907a",
@@ -13051,8 +13052,8 @@
   "time": "Fri, 19 Apr 2013 18:48:21 +0800",
   "tree": "b062aa50685dd20f1bbb53207729851c0c560642",
   "modified_files": [ {
-    "path": "M",
-    "size": ""
+    "path": "app/workers/course_ware_converter.rb",
+    "size": "466"
   } ]
 }, {
   "hash": "23ea134ad9c652f7df1d3f5ff1ca2dce0cce4e9f",
@@ -13137,8 +13138,8 @@
   "time": "Fri, 19 Apr 2013 16:39:12 +0800",
   "tree": "eacbc474e134e7cfc364f806a94c813e8809cf56",
   "modified_files": [ {
-    "path": "M",
-    "size": ""
+    "path": "Gemfile",
+    "size": "3387"
   } ]
 }, {
   "hash": "e8a150cf915664d369bd02596f3cfbc641e73119",
@@ -13179,11 +13180,11 @@
   "time": "Fri, 19 Apr 2013 11:30:05 +0800",
   "tree": "98a3de86c15dfc9d5a7f6e1a03a1a2786efef0b8",
   "modified_files": [ {
-    "path": "M",
-    "size": ""
+    "path": "app/models/file_entity_convert_methods.rb",
+    "size": "2277"
   }, {
-    "path": "M",
-    "size": ""
+    "path": "config/routes.rb",
+    "size": "2997"
   } ]
 }, {
   "hash": "aa051b5ee1f278c0411cdb739140431961040a5d",
@@ -13243,8 +13244,8 @@
   "time": "Fri, 19 Apr 2013 11:09:23 +0800",
   "tree": "668aa2df143e46ef7789957de3e976f49ca8b56e",
   "modified_files": [ {
-    "path": "M",
-    "size": ""
+    "path": "config/routes.rb",
+    "size": "2865"
   } ]
 }, {
   "hash": "3a372702bb6440dd501234333f392dffb0347936",
@@ -13506,11 +13507,11 @@
   "time": "Wed, 17 Apr 2013 17:17:09 +0800",
   "tree": "81c50424dccf8211c8863c5fff4aa77109d7fa16",
   "modified_files": [ {
-    "path": "M",
-    "size": ""
+    "path": "app/models/course_ware.rb",
+    "size": "2757"
   }, {
-    "path": "M",
-    "size": ""
+    "path": "spec/models/course_ware_spec.rb",
+    "size": "11705"
   } ]
 }, {
   "hash": "314b70ad0b7a255f006402ac08a212611ddded52",
@@ -13667,8 +13668,8 @@
   "time": "Tue, 16 Apr 2013 17:53:28 +0800",
   "tree": "e9044cf06ce8b272b4cfafc1a9b2fc6121359883",
   "modified_files": [ {
-    "path": "M",
-    "size": ""
+    "path": "Gemfile",
+    "size": "3270"
   } ]
 }, {
   "hash": "bb66cdad9f9f02ce72d989ade77165168ca5c2ef",
@@ -13792,8 +13793,8 @@
   "time": "Tue, 16 Apr 2013 12:00:01 +0800",
   "tree": "2933b8b854d228270f012088900399b79c5eb914",
   "modified_files": [ {
-    "path": "M",
-    "size": ""
+    "path": "app/models/course_ware.rb",
+    "size": "1837"
   } ]
 }, {
   "hash": "097d6a6679cc947de5c825c772fa96cab36bcb6d",
@@ -13801,11 +13802,11 @@
   "time": "Tue, 16 Apr 2013 11:50:56 +0800",
   "tree": "549fa1b8979ae3825f55a7837100da98fed00297",
   "modified_files": [ {
-    "path": "M",
-    "size": ""
+    "path": "app/models/course_ware.rb",
+    "size": "1772"
   }, {
-    "path": "M",
-    "size": ""
+    "path": "spec/models/course_ware_spec.rb",
+    "size": "9038"
   } ]
 }, {
   "hash": "3a36e4ec2ad8bb8d2ab049c9a5bb7953d9a01bad",
@@ -13813,11 +13814,11 @@
   "time": "Tue, 16 Apr 2013 11:50:00 +0800",
   "tree": "40211bcadcae936e9756beb5901075a774628df1",
   "modified_files": [ {
-    "path": "M",
-    "size": ""
+    "path": "Gemfile",
+    "size": "3239"
   }, {
-    "path": "M",
-    "size": ""
+    "path": "app/models/course_ware.rb",
+    "size": "1776"
   } ]
 }, {
   "hash": "31ac836ffc4c28729b15d05c66a0b2a2f1c916ef",
@@ -13998,8 +13999,8 @@
   "time": "Tue, 16 Apr 2013 10:27:57 +0800",
   "tree": "fb2ef58e3bbbf636e7791384de4fb076121c8af0",
   "modified_files": [ {
-    "path": "M",
-    "size": ""
+    "path": "app/workers/ppt_doc_converter.rb",
+    "size": "502"
   } ]
 }, {
   "hash": "c2beb2929e3f053883a4179a316b2a8be50e5203",
@@ -14160,24 +14161,24 @@
   "time": "Fri, 12 Apr 2013 20:39:49 +0800",
   "tree": "97ad88948b037f09c7422dc9f96d8cb262eb51fd",
   "modified_files": [ {
-    "path": "M",
-    "size": ""
+    "path": "Gemfile",
+    "size": "3204"
   }, {
-    "path": "M",
-    "size": ""
+    "path": "app/models/course_ware_reading.rb",
+    "size": "719"
   }, {
-    "path": "M",
-    "size": ""
+    "path": "app/models/course_ware_reading_module.rb",
+    "size": "1246"
+  }, {
+    "path": "app/models/question.rb",
+    "size": "2940"
+  }, {
+    "path": "spec/models/course_ware_spec.rb",
+    "size": "6847"
   } ],
   "added_files": [ {
-    "path": "M",
-    "size": ""
-  }, {
-    "path": "M",
-    "size": ""
-  }, {
-    "path": "A",
-    "size": ""
+    "path": "db/migrate/20130412121541_change_read_attribute_of_ccw_reading.rb",
+    "size": "163"
   } ]
 }, {
   "hash": "d8e78f6e1fd0b2e33d7dfe77de035b5bf2c6fbdc",
@@ -14507,8 +14508,8 @@
   "time": "Wed, 10 Apr 2013 17:33:46 +0800",
   "tree": "31ac5bb6e4d4634ba226b3c6f637b054707b8e13",
   "modified_files": [ {
-    "path": "M",
-    "size": ""
+    "path": "app/workers/ppt_converter.rb",
+    "size": "423"
   } ]
 }, {
   "hash": "8dceb5c195a670fd971a77c7cef890329e38a6af",
@@ -14567,11 +14568,11 @@
   "time": "Wed, 10 Apr 2013 16:17:56 +0800",
   "tree": "d3b579086a947c62a2ed1af0895113f740a4aea8",
   "modified_files": [ {
-    "path": "M",
-    "size": ""
+    "path": "app/models/course_ware.rb",
+    "size": "1111"
   }, {
-    "path": "M",
-    "size": ""
+    "path": "spec/models/course_ware_spec.rb",
+    "size": "2457"
   } ]
 }, {
   "hash": "3cfc60ccb572d0ad6be13cb53be155de1c542b3b",
@@ -14756,11 +14757,11 @@
   "time": "Tue, 9 Apr 2013 17:22:54 +0800",
   "tree": "8cee6fe2d5de5b2f3048b59b330744faa673d577",
   "modified_files": [ {
-    "path": "M",
-    "size": ""
+    "path": "app/models/course.rb",
+    "size": "1353"
   }, {
-    "path": "M",
-    "size": ""
+    "path": "app/views/courses/index.html.haml",
+    "size": "1340"
   } ]
 }, {
   "hash": "f4f1049132973066e5824c66c78550770b16a1ca",
@@ -14859,8 +14860,8 @@
   "time": "Tue, 9 Apr 2013 14:15:47 +0800",
   "tree": "ccffc7639ed2d6c322f63321c92c9caa5d5f3fb0",
   "modified_files": [ {
-    "path": "M",
-    "size": ""
+    "path": "app/models/question.rb",
+    "size": "2238"
   } ]
 }, {
   "hash": "98369334647868a51b197919bdadb9477bf6707d",
@@ -14880,8 +14881,8 @@
   "time": "Tue, 9 Apr 2013 14:02:10 +0800",
   "tree": "c424590f146aa81a1590db122651064082657ccb",
   "modified_files": [ {
-    "path": "M",
-    "size": ""
+    "path": "app/models/course_sign.rb",
+    "size": "574"
   } ]
 }, {
   "hash": "f8fcbc1ce962c5fd3200f18c707f07edaa21b894",
@@ -15013,11 +15014,11 @@
   "time": "Tue, 9 Apr 2013 09:44:21 +0800",
   "tree": "1f31dbfcbf7826c9664737b86c12b21b077ef12c",
   "modified_files": [ {
-    "path": "M",
-    "size": ""
+    "path": "app/models/course.rb",
+    "size": "1178"
   }, {
-    "path": "M",
-    "size": ""
+    "path": "app/models/question.rb",
+    "size": "1814"
   } ]
 }, {
   "hash": "547b3dd0d1d902b242fc40b7ecc80a81c8af7b20",
@@ -15025,8 +15026,8 @@
   "time": "Mon, 8 Apr 2013 19:07:23 +0800",
   "tree": "cc6bbe7e3e96d895b37c053bc0a922d75975610e",
   "modified_files": [ {
-    "path": "M",
-    "size": ""
+    "path": "app/models/answer.rb",
+    "size": "1703"
   } ]
 }, {
   "hash": "327b6d9fcef7fa84b6a4c3e9d68fb2fe3ea43ef1",
@@ -15058,17 +15059,17 @@
   "time": "Mon, 8 Apr 2013 18:24:38 +0800",
   "tree": "c91d8314be12e841a1b18975cd8ceb895b1f696c",
   "modified_files": [ {
-    "path": "M",
-    "size": ""
+    "path": "app/models/course_zip_importer.rb",
+    "size": "2758"
   }, {
-    "path": "M",
-    "size": ""
+    "path": "app/models/question.rb",
+    "size": "1535"
   }, {
-    "path": "M",
-    "size": ""
+    "path": "app/views/courses/index.html.haml",
+    "size": "229"
   }, {
-    "path": "M",
-    "size": ""
+    "path": "spec/models/course_zip_importer_spec.rb",
+    "size": "1276"
   } ]
 }, {
   "hash": "4011f57a4ba2a45d5f2b6e1a9ebd140214d467c2",
@@ -15670,8 +15671,8 @@
   "time": "Mon, 8 Apr 2013 15:21:49 +0800",
   "tree": "ae572287c6bbeadea6d75e4e8954a7476b20b151",
   "modified_files": [ {
-    "path": "M",
-    "size": ""
+    "path": "app/views/questions/show.html.haml",
+    "size": "1872"
   } ]
 }, {
   "hash": "01313af2e5c8bc755a792403c7668186299812e7",
@@ -15705,8 +15706,8 @@
   "time": "Mon, 8 Apr 2013 14:08:21 +0800",
   "tree": "70f7a24af4986cf834d0cefe62e79daab2f7b577",
   "modified_files": [ {
-    "path": "M",
-    "size": ""
+    "path": "config/routes.rb",
+    "size": "2470"
   } ]
 }, {
   "hash": "115820cf75bf32f84058c4d2f1b4f385b14461db",
@@ -15990,20 +15991,21 @@
   "time": "Sun, 7 Apr 2013 19:42:24 +0800",
   "tree": "94c4c8a2aaaf1f5b57e011638092630777c761be",
   "modified_files": [ {
-    "path": "M",
-    "size": ""
+    "path": "Gemfile",
+    "size": "3142"
   }, {
-    "path": "M",
-    "size": ""
+    "path": "app/models/course_ware.rb",
+    "size": "966"
+  } ],
+  "added_files": [ {
+    "path": "app/models/course_zip_importer.rb",
+    "size": "2794"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "spec/models/course_zip_importer_spec.rb",
+    "size": "969"
   }, {
-    "path": "A",
-    "size": ""
-  }, {
-    "path": "A",
-    "size": ""
+    "path": "spec/support/resources/course.zip",
+    "size": "4380"
   } ]
 }, {
   "hash": "8d714e504716c7116fe46274fc475c290b521d3f",
@@ -16522,14 +16524,14 @@
   "time": "Fri, 5 Apr 2013 14:56:26 +0800",
   "tree": "a548f0be160c38e3613a5ed7218e8cfd9aeeecaa",
   "modified_files": [ {
-    "path": "M",
-    "size": ""
+    "path": "Gemfile",
+    "size": "3055"
   }, {
-    "path": "M",
-    "size": ""
+    "path": "config/locales/zh-CN.yml",
+    "size": "3018"
   }, {
-    "path": "M",
-    "size": ""
+    "path": "config/routes.rb",
+    "size": "2463"
   } ]
 }, {
   "hash": "41a26abf4540e56095ecb5715a6781ab4110dceb",
@@ -17202,11 +17204,11 @@
   "time": "Fri, 29 Mar 2013 19:10:45 +0800",
   "tree": "60515f61edb7f8beb5dd9048b310becfb90797eb",
   "modified_files": [ {
-    "path": "M",
-    "size": ""
+    "path": "Gemfile",
+    "size": "2928"
   }, {
-    "path": "M",
-    "size": ""
+    "path": "config/locales/zh-CN.yml",
+    "size": "2692"
   } ]
 }, {
   "hash": "688d0b119bc94e03711f16fd8f6214d85e3780eb",
@@ -17708,8 +17710,8 @@
   "time": "Thu, 28 Mar 2013 17:41:33 +0800",
   "tree": "3da3ed156aa5f048536b57e158c4c89d59d0142a",
   "modified_files": [ {
-    "path": "M",
-    "size": ""
+    "path": "Gemfile",
+    "size": "2809"
   } ]
 }, {
   "hash": "e227575fb0ac3670bd151688308ea96a55ec739a",
@@ -17757,8 +17759,8 @@
   "time": "Thu, 28 Mar 2013 17:11:08 +0800",
   "tree": "2fd1c4c5d5a569ba823b331af9987418a5701c83",
   "modified_files": [ {
-    "path": "M",
-    "size": ""
+    "path": "Gemfile",
+    "size": "2757"
   } ]
 }, {
   "hash": "573b6ae4ab93b8fcc2b19fd136da16945591c516",
@@ -17785,14 +17787,14 @@
   "time": "Thu, 28 Mar 2013 14:08:56 +0800",
   "tree": "b5bef736463d5523e1563e1766957e2553c56807",
   "modified_files": [ {
-    "path": "M",
-    "size": ""
+    "path": "app/models/course.rb",
+    "size": "1016"
   }, {
-    "path": "M",
-    "size": ""
+    "path": "app/models/test_question.rb",
+    "size": "1569"
   }, {
-    "path": "M",
-    "size": ""
+    "path": "config/routes.rb",
+    "size": "2320"
   } ]
 }, {
   "hash": "dd4615c4b6c182ae07395fe99e18970664dd65c8",
@@ -17805,8 +17807,8 @@
   "time": "Thu, 28 Mar 2013 11:34:41 +0800",
   "tree": "85b787ebdac1df21433c459c24d9435948cc13cb",
   "modified_files": [ {
-    "path": "M",
-    "size": ""
+    "path": "config/locales/zh-CN.yml",
+    "size": "2391"
   } ]
 }, {
   "hash": "0b0a0807b0bcc91791bbfec47cb84c4dc1ff1797",
@@ -18624,8 +18626,8 @@
   "time": "Mon, 25 Mar 2013 10:56:40 +0800",
   "tree": "45811bf8ec38816189542abe5fad8b0e798d9b04",
   "modified_files": [ {
-    "path": "M",
-    "size": ""
+    "path": "spec/factories/file_entity.rb",
+    "size": "211"
   } ]
 }, {
   "hash": "6bc4b86af7d545276265c922579d1d9705fdbf71",
@@ -18642,8 +18644,8 @@
   "time": "Mon, 25 Mar 2013 10:21:12 +0800",
   "tree": "beb0d3ca66afbdf022c9b23ba8f0a3c9733dcbf1",
   "modified_files": [ {
-    "path": "M",
-    "size": ""
+    "path": "Gemfile",
+    "size": "2728"
   } ]
 }, {
   "hash": "7c17fa4aab71d8528dc324a1905e5e40a575c681",
@@ -18683,14 +18685,14 @@
   "time": "Mon, 25 Mar 2013 09:42:39 +0800",
   "tree": "5eda9e425bd70ffc95f238ac2ba389554ebf938e",
   "modified_files": [ {
-    "path": "M",
-    "size": ""
+    "path": "app/models/user.rb",
+    "size": "2225"
   }, {
-    "path": "M",
-    "size": ""
+    "path": "config/locales/zh-CN.yml",
+    "size": "1559"
   }, {
-    "path": "M",
-    "size": ""
+    "path": "config/routes.rb",
+    "size": "1767"
   } ]
 }, {
   "hash": "10fe87ffe50fdde9153a845aebc0697c0fa49f8f",
@@ -18855,27 +18857,27 @@
   "time": "Fri, 22 Mar 2013 19:16:37 +0800",
   "tree": "b3e6d491ae0d3b47359cb13ee4ece96bfcc412fb",
   "modified_files": [ {
-    "path": "M",
-    "size": ""
+    "path": "Gemfile",
+    "size": "2421"
   }, {
-    "path": "M",
-    "size": ""
+    "path": "app/models/user.rb",
+    "size": "1937"
   }, {
-    "path": "M",
-    "size": ""
+    "path": "config/locales/zh-CN.yml",
+    "size": "1299"
   }, {
-    "path": "M",
-    "size": ""
+    "path": "config/routes.rb",
+    "size": "1740"
   }, {
-    "path": "A",
-    "size": ""
+    "path": "spec/models/course_ware_spec.rb",
+    "size": "746"
   }, {
-    "path": "M",
-    "size": ""
+    "path": "spec/models/user_spec.rb",
+    "size": "910"
   } ],
   "added_files": [ {
-    "path": "M",
-    "size": ""
+    "path": "spec/models/user_import_spec.rb",
+    "size": "3260"
   } ]
 }, {
   "hash": "73c6ed0f2b0f627de0c2309a5abe68adc53cfdcc",
@@ -19307,8 +19309,8 @@
   "time": "Wed, 20 Mar 2013 15:23:58 +0800",
   "tree": "5612a2e8faeb8accdc6a401d9a3ac70c8417e7cb",
   "modified_files": [ {
-    "path": "M",
-    "size": ""
+    "path": "app/controllers/courses_controller.rb",
+    "size": "856"
   } ]
 }, {
   "hash": "a0738204e8d74c60e46adb2472e4c378b7c9a346",
@@ -19331,11 +19333,11 @@
   "time": "Wed, 20 Mar 2013 15:19:10 +0800",
   "tree": "2a6013a8c534352ef1ebf79c29aa2f2bff17bbf5",
   "modified_files": [ {
-    "path": "M",
-    "size": ""
+    "path": "app/controllers/courses_controller.rb",
+    "size": "850"
   }, {
-    "path": "M",
-    "size": ""
+    "path": "app/models/course.rb",
+    "size": "589"
   } ]
 }, {
   "hash": "a57540fe910e6f7b095085b2c21c8b1de7493433",
@@ -19469,16 +19471,16 @@
   "message": "Merge with import courses",
   "time": "Tue, 19 Mar 2013 17:19:55 +0800",
   "tree": "c6db43fec142f210e22cf2db77ac75b0f3b0b70c",
-  "added_files": [ {
-    "path": "M",
-    "size": ""
-  }, {
-    "path": "A",
-    "size": ""
-  } ],
   "modified_files": [ {
-    "path": "M",
-    "size": ""
+    "path": "app/controllers/courses_controller.rb",
+    "size": "869"
+  }, {
+    "path": "config/routes.rb",
+    "size": "1434"
+  } ],
+  "added_files": [ {
+    "path": "app/views/courses/import.html.haml",
+    "size": "171"
   } ]
 }, {
   "hash": "f43c42a23453bc844fd064f5f0deecc0b02de686",
@@ -19626,8 +19628,8 @@
   "time": "Tue, 19 Mar 2013 15:09:58 +0800",
   "tree": "6fa8a95bb20aa066651292192ec6833a5a5bc442",
   "modified_files": [ {
-    "path": "M",
-    "size": ""
+    "path": "config/routes.rb",
+    "size": "1361"
   } ]
 }, {
   "hash": "47bffc66c2f46de236e2e1c734cef251cb9b136b",
@@ -19683,8 +19685,8 @@
   "time": "Tue, 19 Mar 2013 14:29:07 +0800",
   "tree": "332cc07f921a8a5e40fc731e259d0624877e60f3",
   "modified_files": [ {
-    "path": "M",
-    "size": ""
+    "path": "config/routes.rb",
+    "size": "1280"
   } ]
 }, {
   "hash": "3e13debf3a1d835ddb4e506de2a826ac7c324211",
@@ -20455,8 +20457,8 @@
   "time": "Mon, 18 Mar 2013 03:30:00 +0800",
   "tree": "46beea70413f439c02824455dcbc9ca3fa0cc7fc",
   "modified_files": [ {
-    "path": "M",
-    "size": ""
+    "path": "Gemfile",
+    "size": "2349"
   } ]
 }, {
   "hash": "53c1c198922b23fe936ee15d85bfc524ecd7f71b",
@@ -20529,14 +20531,14 @@
   "time": "Fri, 15 Mar 2013 15:16:39 +0800",
   "tree": "894f459416a2d6ff69ee90b20f02864e8162e14b",
   "modified_files": [ {
-    "path": "M",
-    "size": ""
+    "path": "app/controllers/admin/users_controller.rb",
+    "size": "1242"
   }, {
-    "path": "M",
-    "size": ""
+    "path": "app/models/user.rb",
+    "size": "1843"
   }, {
-    "path": "M",
-    "size": ""
+    "path": "config/routes.rb",
+    "size": "1217"
   } ]
 }, {
   "hash": "2652eecd00d24e29257864783f5b5cf6972553b5",
@@ -20584,8 +20586,8 @@
   "time": "Fri, 15 Mar 2013 14:35:31 +0800",
   "tree": "21e73fc5d4c28221f35252f3bf0f0d5c2aa6f30d",
   "modified_files": [ {
-    "path": "M",
-    "size": ""
+    "path": "app/models/user.rb",
+    "size": "1663"
   } ]
 }, {
   "hash": "b01adb722c8053bd3e5bbd1cdd3b4139f7ee7f92",
@@ -20653,14 +20655,14 @@
   "time": "Fri, 15 Mar 2013 12:05:10 +0800",
   "tree": "e9814d602e7020692bf788e3b72e0c0bd139e98a",
   "modified_files": [ {
-    "path": "M",
-    "size": ""
+    "path": "Gemfile",
+    "size": "2394"
   }, {
-    "path": "M",
-    "size": ""
+    "path": "app/models/user.rb",
+    "size": "2352"
   }, {
-    "path": "M",
-    "size": ""
+    "path": "config/simple_navbar_config.rb",
+    "size": "3592"
   } ]
 }, {
   "hash": "9aca25b7e8fb36bf0dfdbcb814527a347758eea0",
@@ -20722,17 +20724,17 @@
   "time": "Thu, 14 Mar 2013 19:04:48 +0800",
   "tree": "79deacea0ac2c65cde7031e0e89d7a5c11b2f57e",
   "modified_files": [ {
-    "path": "M",
-    "size": ""
+    "path": "Gemfile",
+    "size": "2131"
   }, {
-    "path": "M",
-    "size": ""
+    "path": "app/controllers/admin/users_controller.rb",
+    "size": "921"
   }, {
-    "path": "M",
-    "size": ""
+    "path": "app/models/user.rb",
+    "size": "1599"
   }, {
-    "path": "M",
-    "size": ""
+    "path": "config/routes.rb",
+    "size": "1188"
   } ]
 }, {
   "hash": "fe6b6020348b31a2d0ebcb0ecf84e4ad0172d5c2",
@@ -20749,11 +20751,11 @@
   "time": "Thu, 14 Mar 2013 18:51:47 +0800",
   "tree": "18e19ef47fc8fb813f99ac5c37e67d69916e0918",
   "modified_files": [ {
-    "path": "M",
-    "size": ""
+    "path": "Gemfile",
+    "size": "2110"
   }, {
-    "path": "M",
-    "size": ""
+    "path": "app/models/user.rb",
+    "size": "2295"
   } ]
 }, {
   "hash": "7a6c1d2463034390c8a43eb1bdc5cd8c921e2509",
@@ -20761,11 +20763,11 @@
   "time": "Thu, 14 Mar 2013 18:44:44 +0800",
   "tree": "f3a6cfd73fcbf872869d58b6a7e3520ffbc1023c",
   "modified_files": [ {
-    "path": "M",
-    "size": ""
+    "path": "Gemfile",
+    "size": "2040"
   }, {
-    "path": "M",
-    "size": ""
+    "path": "app/models/user.rb",
+    "size": "3007"
   } ]
 }, {
   "hash": "e9d85c683b69988f093d972209108a72e096d9bd",
@@ -20952,8 +20954,8 @@
   "time": "Wed, 13 Mar 2013 16:51:18 +0800",
   "tree": "eb8341c80720028d94b4e4619ebe7bb9f42e9b40",
   "modified_files": [ {
-    "path": "M",
-    "size": ""
+    "path": "Gemfile",
+    "size": "2052"
   } ]
 }, {
   "hash": "837af48932d70e7462adae780cceab4b477db9a2",
@@ -21217,8 +21219,8 @@
   "time": "Tue, 12 Mar 2013 17:45:11 +0800",
   "tree": "1ba5797627345190d19aa4e279a57849f64caab7",
   "modified_files": [ {
-    "path": "M",
-    "size": ""
+    "path": "Gemfile",
+    "size": "1983"
   } ]
 }, {
   "hash": "9f74cbdb2be5439abbfff7b012a45fa9dfe7bfb3",
@@ -21284,11 +21286,11 @@
   "time": "Tue, 12 Mar 2013 16:52:08 +0800",
   "tree": "5abef4ed07776a582ce79f33360464e9c14efd35",
   "modified_files": [ {
-    "path": "M",
-    "size": ""
+    "path": "app/models/user.rb",
+    "size": "2998"
   }, {
-    "path": "M",
-    "size": ""
+    "path": "config/routes.rb",
+    "size": "1077"
   } ]
 }, {
   "hash": "42d4bc204a841b83db20613049f0a837cf1fb99e",
@@ -21380,8 +21382,8 @@
   "time": "Tue, 12 Mar 2013 15:54:07 +0800",
   "tree": "29408e1150df41bf55c60da9b5d66ea06f46ddda",
   "modified_files": [ {
-    "path": "M",
-    "size": ""
+    "path": "config/routes.rb",
+    "size": "657"
   } ]
 }, {
   "hash": "d1c3b5bc36e17d79f8c37e4f0dd38df3265922c3",
@@ -21513,8 +21515,8 @@
   "time": "Mon, 11 Mar 2013 15:15:10 +0800",
   "tree": "d309ccfd5ddc1e30b448a295b1931b647e894e18",
   "modified_files": [ {
-    "path": "M",
-    "size": ""
+    "path": "Gemfile",
+    "size": "1800"
   } ]
 }, {
   "hash": "b155332ae322a9a55f517d484065de86e38e0398",
@@ -21856,8 +21858,8 @@
   "time": "Fri, 8 Mar 2013 19:19:07 +0800",
   "tree": "98e54c5ddbcacfb9d718c09ea0e89c2380b7d291",
   "modified_files": [ {
-    "path": "M",
-    "size": ""
+    "path": "Gemfile",
+    "size": "1253"
   } ]
 }, {
   "hash": "b4a43793cf27bf2ab3c81821387f856f58e40752",
@@ -21905,8 +21907,8 @@
   "time": "Fri, 8 Mar 2013 19:13:52 +0800",
   "tree": "7b221f4c00b949f1d86de8d08cedc48db7f8f73d",
   "modified_files": [ {
-    "path": "M",
-    "size": ""
+    "path": "app/views/layouts/application.html.haml",
+    "size": "1561"
   } ]
 }, {
   "hash": "cf4c6a58ec8f075b1401f9c810f48eb9e7791c94",
@@ -22014,11 +22016,11 @@
   "time": "Fri, 8 Mar 2013 17:34:17 +0800",
   "tree": "0d60238c1b797190d8b3521f9aa041877e13daf0",
   "modified_files": [ {
-    "path": "M",
-    "size": ""
+    "path": "Gemfile",
+    "size": "1140"
   }, {
-    "path": "M",
-    "size": ""
+    "path": "app/models/user.rb",
+    "size": "1335"
   } ]
 }, {
   "hash": "7bf08367ce84b0d04c49c7763129955dc8dcf2b4",
@@ -22041,8 +22043,8 @@
   "time": "Fri, 8 Mar 2013 15:05:31 +0800",
   "tree": "87efe69bf9277fa308b8b055df7d1878e5237dd4",
   "modified_files": [ {
-    "path": "M",
-    "size": ""
+    "path": "app/models/user.rb",
+    "size": "1282"
   } ]
 }, {
   "hash": "d9ba72216cc868904dbe18bee4dede3ae5ad755d",
@@ -22214,8 +22216,8 @@
   "time": "Thu, 7 Mar 2013 19:05:19 +0800",
   "tree": "3c3df20cedad4c196840011e1b88f41c4d2c61a7",
   "modified_files": [ {
-    "path": "M",
-    "size": ""
+    "path": "app/models/user.rb",
+    "size": "2146"
   } ]
 }, {
   "hash": "00ce663ccfb31a59048ff2e68333857aa116f29e",
@@ -22286,8 +22288,8 @@
   "time": "Thu, 7 Mar 2013 18:36:56 +0800",
   "tree": "4020328ee76af1936fcaf374b8d0559be6e2103e",
   "modified_files": [ {
-    "path": "M",
-    "size": ""
+    "path": "Gemfile",
+    "size": "941"
   } ]
 }, {
   "hash": "57e60e48a5c7664809eba20f6985fe8f6771f299",
@@ -22316,11 +22318,11 @@
   "time": "Thu, 7 Mar 2013 18:28:57 +0800",
   "tree": "d6a8f3e898513fb865081229ae66ace9b784fd42",
   "modified_files": [ {
-    "path": "M",
-    "size": ""
+    "path": "Gemfile",
+    "size": "880"
   }, {
-    "path": "M",
-    "size": ""
+    "path": "app/models/user.rb",
+    "size": "2116"
   } ]
 }, {
   "hash": "81699b2df85fe62c1882124fa6bbe46280ec6956",
@@ -23046,4 +23048,4 @@
     "path": "README.md",
     "size": "39"
   } ]
-} ]
+} ];
