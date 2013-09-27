@@ -9,8 +9,8 @@ def build_events
     line = line.gsub(/\s+/, "")
     line = line.split(/\|/)
 
-    name = line[0]
-    time = line[1]
+    name = line[1]
+    time = line[0]
     event = {name: name, time: time}
     events << event
   end
