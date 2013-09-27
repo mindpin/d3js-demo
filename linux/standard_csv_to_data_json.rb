@@ -34,6 +34,6 @@ str = %`
   relations = #{relations_json}
 `
 
-File.open("./data.json","wb") do |f|
+File.open("./data.js","wb") do |f|
   f << str
 end

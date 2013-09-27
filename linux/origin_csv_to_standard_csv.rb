@@ -6,12 +6,16 @@ def time_to_num(time)
   # arr[0].to_i*1000000 + arr[1].to_i*1000 + (arr[2]||1).to_i
 end
 
+def rand_color
+  "#xxxxxx".gsub("x"){|s|((rand * 16).to_i || 0).to_s(16)}
+end
+
 data = []
 CSV.foreach("./origin.csv") do |row|
   next if !row[0] || !row[0].match('N')
 
   name = row[1]
-  color = row[2]
+  color = row[2] || rand_color()
   parent = row[3] || 'linux'
   time = row[4]
   data << {
