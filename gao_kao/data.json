@@ -1,1 +1,1747 @@
-# TODO
+[
+  {
+    year : '2002',
+    provinces : [
+      {
+        name : '宁夏',
+        wen_shi_zhong_dian : 480,
+        wen_shi_ben_ke : 440,
+        wen_shi_zhuan_ke : 414,
+        li_gong_zhong_dian : 471,
+        li_gong_ben_ke : 428,
+        li_gong_zhuan_ke : 401,
+        student_count : num
+      },
+      {       
+        name : '浙江',
+        wen_shi_zhong_dian : 560,
+        wen_shi_ben_ke : 522,
+        wen_shi_zhuan_ke : 469,
+        li_gong_zhong_dian : 573,
+        li_gong_ben_ke : 531,
+        li_gong_zhuan_ke : 465,
+        student_count : num
+      },
+      {              
+        name : '陕西',
+        wen_shi_zhong_dian : 502,
+        wen_shi_ben_ke : 450,
+        wen_shi_zhuan_ke : 280,
+        li_gong_zhong_dian : 500,
+        li_gong_ben_ke : 445,
+        li_gong_zhuan_ke : 280,
+        student_count : num
+      },
+      {          　   
+        name : '山东',
+        wen_shi_zhong_dian : 568,
+        wen_shi_ben_ke : num,
+        wen_shi_zhuan_ke : num,
+        li_gong_zhong_dian : 589,
+        li_gong_ben_ke : num,
+        li_gong_zhuan_ke : num,
+        student_count : num
+      },
+      {                     
+        name : '山西',
+        wen_shi_zhong_dian : 549,
+        wen_shi_ben_ke : 505,
+        wen_shi_zhuan_ke : num,
+        li_gong_zhong_dian : 544,
+        li_gong_ben_ke : 501,
+        li_gong_zhuan_ke : num,
+        student_count : num
+      },
+      {                    
+        name : '重庆',
+        wen_shi_zhong_dian : 508,
+        wen_shi_ben_ke : 440,
+        wen_shi_zhuan_ke : 380,
+        li_gong_zhong_dian : 508,
+        li_gong_ben_ke : 433,
+        li_gong_zhuan_ke : 360,
+        student_count : num
+      },{                     
+        name : '安徽',
+        wen_shi_zhong_dian : 535,
+        wen_shi_ben_ke : 482,
+        wen_shi_zhuan_ke : 300,
+        li_gong_zhong_dian : 548,
+        li_gong_ben_ke : 487,
+        li_gong_zhuan_ke : 300,
+        student_count : num
+      },{                    
+        name : '北京',
+        wen_shi_zhong_dian : 462,
+        wen_shi_ben_ke : 432,
+        wen_shi_zhuan_ke : 360,
+        li_gong_zhong_dian : 469,
+        li_gong_ben_ke : 424,
+        li_gong_zhuan_ke : 340,
+        student_count : num
+      },{       
+        name : '四川',
+        wen_shi_zhong_dian : 528,
+        wen_shi_ben_ke : 459,
+        wen_shi_zhuan_ke : 280,
+        li_gong_zhong_dian : 544,
+        li_gong_ben_ke : 479,
+        li_gong_zhuan_ke : 280,
+        student_count : num
+      },{               
+        name : '辽宁',
+        wen_shi_zhong_dian : 532,
+        wen_shi_ben_ke : 490,
+        wen_shi_zhuan_ke : 430,
+        li_gong_zhong_dian : 528,
+        li_gong_ben_ke : 459,
+        li_gong_zhuan_ke : 415,
+        student_count : num
+      },{ 
+        name : '天津',
+        wen_shi_zhong_dian : 492,
+        wen_shi_ben_ke : 453,
+        wen_shi_zhuan_ke : 370,
+        li_gong_zhong_dian : 505,
+        li_gong_ben_ke : 455,
+        li_gong_zhuan_ke : 400,
+        student_count : num
+      },{      
+        name : '海南',
+        wen_shi_zhong_dian : 687,
+        wen_shi_ben_ke : 618,
+        wen_shi_zhuan_ke : 545,
+        li_gong_zhong_dian : 668,
+        li_gong_ben_ke : 596,
+        li_gong_zhuan_ke : 522,
+        student_count : num
+      },{   
+        name : '甘肃',
+        wen_shi_zhong_dian : 492,
+        wen_shi_ben_ke : 466,
+        wen_shi_zhuan_ke : 416,
+        li_gong_zhong_dian : 508,
+        li_gong_ben_ke : 457,
+        li_gong_zhuan_ke : 406,
+        student_count : num
+      },{                    
+        name : '河北',
+        wen_shi_zhong_dian : 539,
+        wen_shi_ben_ke : 505,
+        wen_shi_zhuan_ke : 350,
+        li_gong_zhong_dian : 571,
+        li_gong_ben_ke : 527,
+        li_gong_zhuan_ke : 370,
+        student_count : num
+      },{  
+        name : '上海',
+        wen_shi_zhong_dian : 467,
+        wen_shi_ben_ke : 449,
+        wen_shi_zhuan_ke : 294,
+        li_gong_zhong_dian : 456,
+        li_gong_ben_ke : 423,
+        li_gong_zhuan_ke : 279,
+        student_count : num
+      },{                     
+        name : '吉林',
+        wen_shi_zhong_dian : 505,
+        wen_shi_ben_ke : 436,
+        wen_shi_zhuan_ke : 328,
+        li_gong_zhong_dian : 520,
+        li_gong_ben_ke : 442,
+        li_gong_zhuan_ke : 340,
+        student_count : num
+      },{      
+        name : '湖北',
+        wen_shi_zhong_dian : 527,
+        wen_shi_ben_ke : 504,
+        wen_shi_zhuan_ke : 420,
+        li_gong_zhong_dian : 555,
+        li_gong_ben_ke : 525,
+        li_gong_zhuan_ke : 420,
+        student_count : num
+      },{                            
+        name : '河南',
+        wen_shi_zhong_dian : 562,
+        wen_shi_ben_ke : 516,
+        wen_shi_zhuan_ke : 440,
+        li_gong_zhong_dian : 562,
+        li_gong_ben_ke : 516,
+        li_gong_zhuan_ke : 440,
+        student_count : num
+      },{        
+        name : '湖南',
+        wen_shi_zhong_dian : 553,
+        wen_shi_ben_ke : 513,
+        wen_shi_zhuan_ke : 458,
+        li_gong_zhong_dian : 559,
+        li_gong_ben_ke : 513,
+        li_gong_zhuan_ke : 400,
+        student_count : num
+      },{                            
+        name : '江西',
+        wen_shi_zhong_dian : 542,
+        wen_shi_ben_ke : 491,
+        wen_shi_zhuan_ke : 300,
+        li_gong_zhong_dian : 564,
+        li_gong_ben_ke : 509,
+        li_gong_zhuan_ke : 320,
+        student_count : num
+      },{        
+        name : '江苏',
+        wen_shi_zhong_dian : 552,
+        wen_shi_ben_ke : 515,
+        wen_shi_zhuan_ke : 490,
+        li_gong_zhong_dian : 552,
+        li_gong_ben_ke : 515,
+        li_gong_zhuan_ke : 490,
+        student_count : num
+      },{                            
+        name : '新疆',
+        wen_shi_zhong_dian : 490,
+        wen_shi_ben_ke : 436,
+        wen_shi_zhuan_ke : 340,
+        li_gong_zhong_dian : 499,
+        li_gong_ben_ke : 420,
+        li_gong_zhuan_ke : 340,
+        student_count : num
+      },{         
+        name : '内蒙古',
+        wen_shi_zhong_dian : 521,
+        wen_shi_ben_ke : 448,
+        wen_shi_zhuan_ke : 294,
+        li_gong_zhong_dian : 533,
+        li_gong_ben_ke : 480,
+        li_gong_zhuan_ke : 465,
+        student_count : num
+      },{           
+        name : '黑龙江',
+        wen_shi_zhong_dian : 527,
+        wen_shi_ben_ke : 489,
+        wen_shi_zhuan_ke : 469,
+        li_gong_zhong_dian : 541,
+        li_gong_ben_ke : 496,
+        li_gong_zhuan_ke : 476,
+        student_count : num
+      },{          
+        name : '广东',
+        wen_shi_zhong_dian : 640,
+        wen_shi_ben_ke : 574,
+        wen_shi_zhuan_ke : 460,
+        li_gong_zhong_dian : 640,
+        li_gong_ben_ke : 574,
+        li_gong_zhuan_ke : 460,
+        student_count : num
+      },{                            
+        name : '广西',
+        wen_shi_zhong_dian : 669,
+        wen_shi_ben_ke : 588,
+        wen_shi_zhuan_ke : num,
+        li_gong_zhong_dian : 636,
+        li_gong_ben_ke : 555,
+        li_gong_zhuan_ke : num,
+        student_count : num
+      },{                                   
+        name : '贵州',
+        wen_shi_zhong_dian : 513,
+        wen_shi_ben_ke : 429,
+        wen_shi_zhuan_ke : num,
+        li_gong_zhong_dian : 485,
+        li_gong_ben_ke : 393,
+        li_gong_zhuan_ke : num,
+        student_count : num
+      },{                                     
+        name : '云南',
+        wen_shi_zhong_dian : 475,
+        wen_shi_ben_ke : 435,
+        wen_shi_zhuan_ke : 410,
+        li_gong_zhong_dian : 440,
+        li_gong_ben_ke : 375,
+        li_gong_zhuan_ke : 345,
+        student_count : num
+      },{                                   
+        name : '西藏',
+        wen_shi_zhong_dian : 450,
+        wen_shi_ben_ke : 340,
+        wen_shi_zhuan_ke : 325,
+        li_gong_zhong_dian : 450,
+        li_gong_ben_ke : 340,
+        li_gong_zhuan_ke : 270,
+        student_count : num
+      },{                                  
+        name : '福建',
+        wen_shi_zhong_dian : 543,
+        wen_shi_ben_ke : 483,
+        wen_shi_zhuan_ke : 382,
+        li_gong_zhong_dian : 555,
+        li_gong_ben_ke : 505,
+        li_gong_zhuan_ke : 413,
+        student_count : num
+      },{                                           
+        name : '青海',     
+        wen_shi_zhong_dian : 445,
+        wen_shi_ben_ke : 372,
+        wen_shi_zhuan_ke : num,
+        li_gong_zhong_dian : 378,
+        li_gong_ben_ke : 302,
+        li_gong_zhuan_ke : num,
+        student_count : num
+      }
+    ]
+  },
+  {
+    year : '2003',
+    provinces : [
+      {   　    
+        name : '宁夏',
+        wen_shi_zhong_dian : 491,
+        wen_shi_ben_ke : 431,
+        wen_shi_zhuan_ke : num,
+        li_gong_zhong_dian : 426,
+        li_gong_ben_ke : 381,
+        li_gong_zhuan_ke : num,
+        student_count : num
+      },
+      {       
+        name : '浙江',  　     　
+        wen_shi_zhong_dian : 541,
+        wen_shi_ben_ke : 500,
+        wen_shi_zhuan_ke : num,
+        li_gong_zhong_dian : 508,
+        li_gong_ben_ke : 459,
+        li_gong_zhuan_ke : num,
+        student_count : num
+      },
+      {              
+        name : '陕西',     
+        wen_shi_zhong_dian : 516,
+        wen_shi_ben_ke : 455,
+        wen_shi_zhuan_ke : 295,
+        li_gong_zhong_dian : 467,
+        li_gong_ben_ke : 419,
+        li_gong_zhuan_ke : 265,
+        student_count : num
+      },
+      {          　   
+        name : '山东',
+        wen_shi_zhong_dian : 552,
+        wen_shi_ben_ke : num,
+        wen_shi_zhuan_ke : num,
+        li_gong_zhong_dian : 524,
+        li_gong_ben_ke : num,
+        li_gong_zhuan_ke : num,
+        student_count : num
+      },
+      {                     
+        name : '山西',  　    
+        wen_shi_zhong_dian : 518,
+        wen_shi_ben_ke : 478,
+        wen_shi_zhuan_ke : num,
+        li_gong_zhong_dian : 487,
+        li_gong_ben_ke : 450,
+        li_gong_zhuan_ke : num,
+        student_count : num
+      },
+      {                    
+        name : '重庆',         
+        wen_shi_zhong_dian : 510,
+        wen_shi_ben_ke : 449,
+        wen_shi_zhuan_ke : 382,
+        li_gong_zhong_dian : 463,
+        li_gong_ben_ke : 391,
+        li_gong_zhuan_ke : 316,
+        student_count : num
+      },{                     
+        name : '安徽',  　     　
+        wen_shi_zhong_dian : 507,
+        wen_shi_ben_ke : 462,
+        wen_shi_zhuan_ke : num,
+        li_gong_zhong_dian : 482,
+        li_gong_ben_ke : 431,
+        li_gong_zhuan_ke : num,
+        student_count : num
+      },{                    
+        name : '北京',     
+        wen_shi_zhong_dian : 470,
+        wen_shi_ben_ke : 434,
+        wen_shi_zhuan_ke : 364,
+        li_gong_zhong_dian : 455,
+        li_gong_ben_ke : 408,
+        li_gong_zhuan_ke : 323,
+        student_count : num
+      },{       
+        name : '四川',     
+        wen_shi_zhong_dian : 522,
+        wen_shi_ben_ke : 433,
+        wen_shi_zhuan_ke : 260,
+        li_gong_zhong_dian : 488,
+        li_gong_ben_ke : 400,
+        li_gong_zhuan_ke : 220,
+        student_count : num
+      },{               
+        name : '辽宁', 　     　   
+        wen_shi_zhong_dian : 523,
+        wen_shi_ben_ke : num,
+        wen_shi_zhuan_ke : 320,
+        li_gong_zhong_dian : 523,
+        li_gong_ben_ke : num,
+        li_gong_zhuan_ke : 320,
+        student_count : num
+      },{ 
+        name : '天津',     
+        wen_shi_zhong_dian : 477,
+        wen_shi_ben_ke : 441,
+        wen_shi_zhuan_ke : 370,
+        li_gong_zhong_dian : 452,
+        li_gong_ben_ke : 403,
+        li_gong_zhuan_ke : 345,
+        student_count : num
+      },{      
+        name : '海南',
+        wen_shi_zhong_dian : num,
+        wen_shi_ben_ke : num,
+        wen_shi_zhuan_ke : num,
+        li_gong_zhong_dian : num,
+        li_gong_ben_ke : num,
+        li_gong_zhuan_ke : num,
+        student_count : num
+      },{   
+        name : '甘肃',     
+        wen_shi_zhong_dian : 504,
+        wen_shi_ben_ke : 456,
+        wen_shi_zhuan_ke : 426,
+        li_gong_zhong_dian : 458,
+        li_gong_ben_ke : 402,
+        li_gong_zhuan_ke : 370,
+        student_count : num
+      },{                    
+        name : '河北',     
+        wen_shi_zhong_dian : 531,
+        wen_shi_ben_ke : 415,
+        wen_shi_zhuan_ke : 300,
+        li_gong_zhong_dian : 513,
+        li_gong_ben_ke : 392,
+        li_gong_zhuan_ke : 300,
+        student_count : num
+      },{  
+        name : '上海',
+        wen_shi_zhong_dian : 441,
+        wen_shi_ben_ke : 420,
+        wen_shi_zhuan_ke : num,
+        li_gong_zhong_dian : 435,
+        li_gong_ben_ke : 388,
+        li_gong_zhuan_ke : num,
+        student_count : num
+      },{                     
+        name : '吉林',         
+        wen_shi_zhong_dian : 474,
+        wen_shi_ben_ke : 402,
+        wen_shi_zhuan_ke : 270,
+        li_gong_zhong_dian : 462,
+        li_gong_ben_ke : 380,
+        li_gong_zhuan_ke : 243,
+        student_count : num
+      },{      
+        name : '湖北',
+        wen_shi_zhong_dian : 516,
+        wen_shi_ben_ke : num,
+        wen_shi_zhuan_ke : num,
+        li_gong_zhong_dian : 502,
+        li_gong_ben_ke : num,
+        li_gong_zhuan_ke : num,
+        student_count : num
+      },{                            
+        name : '河南',     
+        wen_shi_zhong_dian : 575,
+        wen_shi_ben_ke : 532,
+        wen_shi_zhuan_ke : 468,
+        li_gong_zhong_dian : 575,
+        li_gong_ben_ke : 532,
+        li_gong_zhuan_ke : 468,
+        student_count : num
+      },{        
+        name : '湖南',
+        wen_shi_zhong_dian : 557,
+        wen_shi_ben_ke : 520,
+        wen_shi_zhuan_ke : num,
+        li_gong_zhong_dian : 501,
+        li_gong_ben_ke : 457,
+        li_gong_zhuan_ke : num,
+        student_count : num
+      },{                            
+        name : '江西',
+        wen_shi_zhong_dian : 530,
+        wen_shi_ben_ke : 478,
+        wen_shi_zhuan_ke : num,
+        li_gong_zhong_dian : 512,
+        li_gong_ben_ke : 462,
+        li_gong_zhuan_ke : num,
+        student_count : num
+      },{        
+        name : '江苏',
+        wen_shi_zhong_dian : num,
+        wen_shi_ben_ke : num,
+        wen_shi_zhuan_ke : num,
+        li_gong_zhong_dian : num,
+        li_gong_ben_ke : num,
+        li_gong_zhuan_ke : num,
+        student_count : num
+      },{                            
+        name : '新疆',
+        wen_shi_zhong_dian : 493,
+        wen_shi_ben_ke : 450,
+        wen_shi_zhuan_ke : num,
+        li_gong_zhong_dian : 456,
+        li_gong_ben_ke : 390,
+        li_gong_zhuan_ke : num,
+        student_count : num
+      },{         
+        name : '内蒙古',        
+        wen_shi_zhong_dian : 487,
+        wen_shi_ben_ke : 445,
+        wen_shi_zhuan_ke : 385,
+        li_gong_zhong_dian : 455,
+        li_gong_ben_ke : 400,
+        li_gong_zhuan_ke : 350,
+        student_count : num
+      },{           
+        name : '黑龙江',
+        wen_shi_zhong_dian : 503,
+        wen_shi_ben_ke : 450,
+        wen_shi_zhuan_ke : num,
+        li_gong_zhong_dian : 476,
+        li_gong_ben_ke : 418,
+        li_gong_zhuan_ke : num,
+        student_count : num
+      },{          
+        name : '广东',
+        wen_shi_zhong_dian : 640,
+        wen_shi_ben_ke : 574,
+        wen_shi_zhuan_ke : 460,
+        li_gong_zhong_dian : 640,
+        li_gong_ben_ke : 574,
+        li_gong_zhuan_ke : 460,
+        student_count : num
+      },{                            
+        name : '广西',
+        wen_shi_zhong_dian : num,
+        wen_shi_ben_ke : num,
+        wen_shi_zhuan_ke : num,
+        li_gong_zhong_dian : num,
+        li_gong_ben_ke : num,
+        li_gong_zhuan_ke : num,
+        student_count : num
+      },{                                   
+        name : '贵州',
+        wen_shi_zhong_dian : 505,
+        wen_shi_ben_ke : 422,
+        wen_shi_zhuan_ke : num,
+        li_gong_zhong_dian : 436,
+        li_gong_ben_ke : 354,
+        li_gong_zhuan_ke : num,
+        student_count : num
+      },{                                            
+        name : '云南',
+        wen_shi_zhong_dian : 480,
+        wen_shi_ben_ke : 445,
+        wen_shi_zhuan_ke : 410,
+        li_gong_zhong_dian : 405,
+        li_gong_ben_ke : 350,
+        li_gong_zhuan_ke : 310,
+        student_count : num
+      },{                                           
+        name : '西藏',
+        wen_shi_zhong_dian : 450,
+        wen_shi_ben_ke : 320,
+        wen_shi_zhuan_ke : 300,
+        li_gong_zhong_dian : 440,
+        li_gong_ben_ke : 325,
+        li_gong_zhuan_ke : 250,
+        student_count : num
+      },{                                  
+        name : '福建',     
+        wen_shi_zhong_dian : 534,
+        wen_shi_ben_ke : 463,
+        wen_shi_zhuan_ke : 341,
+        li_gong_zhong_dian : 494,
+        li_gong_ben_ke : 430,
+        li_gong_zhuan_ke : 274,
+        student_count : num
+      },{                                           
+        name : '青海',     
+        wen_shi_zhong_dian : 426,
+        wen_shi_ben_ke : 355,
+        wen_shi_zhuan_ke : 255,
+        li_gong_zhong_dian : 338,
+        li_gong_ben_ke : 276,
+        li_gong_zhuan_ke : 190,
+        student_count : num
+      }
+
+    ]
+  },
+  {
+    year : '2004',
+    provinces : [
+      {   　             
+        name : '宁夏',
+        wen_shi_zhong_dian : 532,
+        wen_shi_ben_ke : 485,
+        wen_shi_zhuan_ke : num,
+        li_gong_zhong_dian : 526,
+        li_gong_ben_ke : 482,
+        li_gong_zhuan_ke : num,
+        student_count : num
+      },
+      {       
+        name : '浙江',  　            　
+        wen_shi_zhong_dian : 576,
+        wen_shi_ben_ke : 535,
+        wen_shi_zhuan_ke : 369,
+        li_gong_zhong_dian : 574,
+        li_gong_ben_ke : 517,
+        li_gong_zhuan_ke : 302,
+        student_count : num
+      },
+      {              
+        name : '陕西',              
+        wen_shi_zhong_dian : 576,
+        wen_shi_ben_ke : 510,
+        wen_shi_zhuan_ke : 310,
+        li_gong_zhong_dian : 562,
+        li_gong_ben_ke : 508,
+        li_gong_zhuan_ke : 300,
+        student_count : num
+      },
+      {          　   
+        name : '山东',
+        wen_shi_zhong_dian : 600,
+        wen_shi_ben_ke : num,
+        wen_shi_zhuan_ke : num,
+        li_gong_zhong_dian : 606,
+        li_gong_ben_ke : num,
+        li_gong_zhuan_ke : num,
+        student_count : num
+      },
+      {                     
+        name : '山西',  　    
+        wen_shi_zhong_dian : 574,          
+        wen_shi_ben_ke : 539,
+        wen_shi_zhuan_ke : num,
+        li_gong_zhong_dian : 571,
+        li_gong_ben_ke : 531,
+        li_gong_zhuan_ke : num,
+        student_count : num
+      },
+      {                    
+        name : '重庆',                 
+        wen_shi_zhong_dian : 537,
+        wen_shi_ben_ke : 472,
+        wen_shi_zhuan_ke : 418,
+        li_gong_zhong_dian : 518,
+        li_gong_ben_ke : 450,
+        li_gong_zhuan_ke : 385,
+        student_count : num
+      },{                     
+        name : '安徽',  　               　
+        wen_shi_zhong_dian : 564,
+        wen_shi_ben_ke : 520,
+        wen_shi_zhuan_ke : num,
+        li_gong_zhong_dian : 565,
+        li_gong_ben_ke : 501,
+        li_gong_zhuan_ke : num,
+        student_count : num
+      },{                    
+        name : '北京',             
+        wen_shi_zhong_dian : 474,
+        wen_shi_ben_ke : 435,
+        wen_shi_zhuan_ke : 365,
+        li_gong_zhong_dian : 491,
+        li_gong_ben_ke : 433,
+        li_gong_zhuan_ke : 343,
+        student_count : num
+      },{       
+        name : '四川',                
+        wen_shi_zhong_dian : 541,
+        wen_shi_ben_ke : 490,
+        wen_shi_zhuan_ke : num,
+        li_gong_zhong_dian : 538,
+        li_gong_ben_ke : 483,
+        li_gong_zhuan_ke : num,
+        student_count : num
+      },{               
+        name : '辽宁', 　     　   
+        wen_shi_zhong_dian : 558,
+        wen_shi_ben_ke : 485,
+        wen_shi_zhuan_ke : 330,
+        li_gong_zhong_dian : num,
+        li_gong_ben_ke : num,
+        li_gong_zhuan_ke : num,
+        student_count : num
+      },{ 
+        name : '天津',          
+        wen_shi_zhong_dian : 520,
+        wen_shi_ben_ke : 472,
+        wen_shi_zhuan_ke : num,
+        li_gong_zhong_dian : 495,
+        li_gong_ben_ke : 434,
+        li_gong_zhuan_ke : num,
+        student_count : num
+      },{      
+        name : '海南',     
+        wen_shi_zhong_dian : 626,
+        wen_shi_ben_ke : 564,
+        wen_shi_zhuan_ke : 320,
+        li_gong_zhong_dian : 588,
+        li_gong_ben_ke : 514,
+        li_gong_zhuan_ke : 300,
+        student_count : num
+      },{   
+        name : '甘肃',    
+        wen_shi_zhong_dian : 578,
+        wen_shi_ben_ke : 528,
+        wen_shi_zhuan_ke : 450,
+        li_gong_zhong_dian : 568,
+        li_gong_ben_ke : 508,
+        li_gong_zhuan_ke : 430,
+        student_count : num
+      },{                    
+        name : '河北',             
+        wen_shi_zhong_dian : 582,
+        wen_shi_ben_ke : 550,
+        wen_shi_zhuan_ke : 350,
+        li_gong_zhong_dian : 590,
+        li_gong_ben_ke : 543,
+        li_gong_zhuan_ke : 300,
+        student_count : num
+      },{  
+        name : '上海',        
+        wen_shi_zhong_dian : 505,
+        wen_shi_ben_ke : 463,
+        wen_shi_zhuan_ke : num,
+        li_gong_zhong_dian : 506,
+        li_gong_ben_ke : 428,
+        li_gong_zhuan_ke : num,
+        student_count : num
+      },{                     
+        name : '吉林',                 
+        wen_shi_zhong_dian : 501,
+        wen_shi_ben_ke : 421,
+        wen_shi_zhuan_ke : 302,
+        li_gong_zhong_dian : 492,
+        li_gong_ben_ke : 392,
+        li_gong_zhuan_ke : 246,
+        student_count : num
+      },{      
+        name : '湖北',
+        wen_shi_zhong_dian : 536,         
+        wen_shi_ben_ke : 510,
+        wen_shi_zhuan_ke : 360,
+        li_gong_zhong_dian : 561,
+        li_gong_ben_ke : 530,
+        li_gong_zhuan_ke : 380,
+        student_count : num
+      },{                            
+        name : '河南',             
+        wen_shi_zhong_dian : 599,
+        wen_shi_ben_ke : 564,
+        wen_shi_zhuan_ke : 482,
+        li_gong_zhong_dian : 589,
+        li_gong_ben_ke : 533,
+        li_gong_zhuan_ke : 412,
+        student_count : num
+      },{        
+        name : '湖南',
+        wen_shi_zhong_dian : 568,        
+        wen_shi_ben_ke : 531,
+        wen_shi_zhuan_ke : 270,
+        li_gong_zhong_dian : 541,
+        li_gong_ben_ke : 496,
+        li_gong_zhuan_ke : 260,
+        student_count : num
+      },{                            
+        name : '江西',
+        wen_shi_zhong_dian : 583,
+        wen_shi_ben_ke : 542,
+        wen_shi_zhuan_ke : num,
+        li_gong_zhong_dian : 596,
+        li_gong_ben_ke : 542,
+        li_gong_zhuan_ke : num,
+        student_count : num
+      },{        
+        name : '江苏',
+        wen_shi_zhong_dian : 575,
+        wen_shi_ben_ke : 543,
+        wen_shi_zhuan_ke : num,
+        li_gong_zhong_dian : num,
+        li_gong_ben_ke : num,
+        li_gong_zhuan_ke : num,
+        student_count : num
+      },{                            
+        name : '新疆',
+        wen_shi_zhong_dian : 538,
+        wen_shi_ben_ke : 484,        
+        wen_shi_zhuan_ke : 320,
+        li_gong_zhong_dian : 522,
+        li_gong_ben_ke : 447,
+        li_gong_zhuan_ke : 300,
+        student_count : num
+      },{         
+        name : '内蒙古',        
+        wen_shi_zhong_dian : 535,
+        wen_shi_ben_ke : 477,           
+        wen_shi_zhuan_ke : num,
+        li_gong_zhong_dian : 564,
+        li_gong_ben_ke : 493,
+        li_gong_zhuan_ke : num,
+        student_count : num
+      },{           
+        name : '黑龙江',
+        wen_shi_zhong_dian : 517,
+        wen_shi_ben_ke : 466,
+        wen_shi_zhuan_ke : num,
+        li_gong_zhong_dian : 527,          
+        li_gong_ben_ke : 467,
+        li_gong_zhuan_ke : num,
+        student_count : num
+      },{          
+        name : '广东',   
+        wen_shi_zhong_dian : 626,
+        wen_shi_ben_ke : 548,
+        wen_shi_zhuan_ke : 498,
+        li_gong_zhong_dian : num,
+        li_gong_ben_ke : num,
+        li_gong_zhuan_ke : num,
+        student_count : num
+      },{                            
+        name : '广西',
+        wen_shi_zhong_dian : num,
+        wen_shi_ben_ke : num,
+        wen_shi_zhuan_ke : num,
+        li_gong_zhong_dian : num,
+        li_gong_ben_ke : num,
+        li_gong_zhuan_ke : num,
+        student_count : num
+      },{                                   
+        name : '贵州',
+        wen_shi_zhong_dian : 531,
+        wen_shi_ben_ke : 463,               
+        wen_shi_zhuan_ke : num,
+        li_gong_zhong_dian : 484,
+        li_gong_ben_ke : 408,
+        li_gong_zhuan_ke : num,
+        student_count : num
+      },{                                            
+        name : '云南',
+        wen_shi_zhong_dian : 515,        
+        wen_shi_ben_ke : 470,
+        wen_shi_zhuan_ke : 425,
+        li_gong_zhong_dian : 465,
+        li_gong_ben_ke : 400,
+        li_gong_zhuan_ke : 355,
+        student_count : num
+      },{                                           
+        name : '西藏',
+        wen_shi_zhong_dian : 490,
+        wen_shi_ben_ke : 320,
+        wen_shi_zhuan_ke : 300,
+        li_gong_zhong_dian : 480,
+        li_gong_ben_ke : 325,
+        li_gong_zhuan_ke : 255,
+        student_count : num
+      },{                                  
+        name : '福建',             
+        wen_shi_zhong_dian : 551,
+        wen_shi_ben_ke : 485,
+        wen_shi_zhuan_ke : 395,
+        li_gong_zhong_dian : 535,
+        li_gong_ben_ke : 456,
+        li_gong_zhuan_ke : 264,
+        student_count : num
+      },{                                           
+        name : '青海',     
+        wen_shi_zhong_dian : 478,        
+        wen_shi_ben_ke : 390,
+        wen_shi_zhuan_ke : 255,
+        li_gong_zhong_dian : 438,
+        li_gong_ben_ke : 365,
+        li_gong_zhuan_ke : 240,
+        student_count : num
+      }
+
+    ]
+  },
+  {
+    year : '2005',
+    provinces : [
+      {   　             
+        name : '宁夏',
+        wen_shi_zhong_dian : 512,
+        wen_shi_ben_ke : 461,
+        wen_shi_zhuan_ke : num,
+        li_gong_zhong_dian : 504,
+        li_gong_ben_ke : 453,
+        li_gong_zhuan_ke : num,
+        student_count : num
+      },
+      {       
+        name : '浙江',  　            　
+        wen_shi_zhong_dian : 568,
+        wen_shi_ben_ke : 535,
+        wen_shi_zhuan_ke : 473,
+        li_gong_zhong_dian : 550,
+        li_gong_ben_ke : 508,
+        li_gong_zhuan_ke : 423,
+        student_count : num
+      },
+      {              
+        name : '陕西',              
+        wen_shi_zhong_dian : 550,
+        wen_shi_ben_ke : 500,
+        wen_shi_zhuan_ke : 300,
+        li_gong_zhong_dian : 567,
+        li_gong_ben_ke : 518,
+        li_gong_zhuan_ke : 300,
+        student_count : num
+      },
+      {          　   
+        name : '山东',
+        wen_shi_zhong_dian : 572,
+        wen_shi_ben_ke : num,
+        wen_shi_zhuan_ke : num,
+        li_gong_zhong_dian : 597,
+        li_gong_ben_ke : num,
+        li_gong_zhuan_ke : num,
+        student_count : num
+      },
+      {                     
+        name : '山西',  　    
+        wen_shi_zhong_dian : 534,          
+        wen_shi_ben_ke : 497,
+        wen_shi_zhuan_ke : num,
+        li_gong_zhong_dian : 532,
+        li_gong_ben_ke : 495,
+        li_gong_zhuan_ke : num,
+        student_count : num
+      },
+      {                    
+        name : '重庆',                 
+        wen_shi_zhong_dian : 549,
+        wen_shi_ben_ke : 487,
+        wen_shi_zhuan_ke : 430,
+        li_gong_zhong_dian : 548,
+        li_gong_ben_ke : 494,
+        li_gong_zhuan_ke : 430,
+        student_count : num
+      },{                     
+        name : '安徽',  　               　
+        wen_shi_zhong_dian : 543,
+        wen_shi_ben_ke : 488,
+        wen_shi_zhuan_ke : 395,
+        li_gong_zhong_dian : 541,
+        li_gong_ben_ke : 480,
+        li_gong_zhuan_ke : 389,
+        student_count : num
+      },{                    
+        name : '北京',             
+        wen_shi_zhong_dian : 486,
+        wen_shi_ben_ke : 443,
+        wen_shi_zhuan_ke : 373,
+        li_gong_zhong_dian : 470,
+        li_gong_ben_ke : 414,
+        li_gong_zhuan_ke : 324,
+        student_count : num
+      },{       
+        name : '四川',                
+        wen_shi_zhong_dian : 570,
+        wen_shi_ben_ke : 519,
+        wen_shi_zhuan_ke : num,
+        li_gong_zhong_dian : 598,
+        li_gong_ben_ke : 550,
+        li_gong_zhuan_ke : num,
+        student_count : num
+      },{               
+        name : '辽宁', 　     　   
+        wen_shi_zhong_dian : 530,
+        wen_shi_ben_ke : 458,
+        wen_shi_zhuan_ke : 360,
+        li_gong_zhong_dian : num,
+        li_gong_ben_ke : num,
+        li_gong_zhuan_ke : num,
+        student_count : num
+      },{ 
+        name : '天津',          
+        wen_shi_zhong_dian : 498,
+        wen_shi_ben_ke : 460,
+        wen_shi_zhuan_ke : num,
+        li_gong_zhong_dian : 458,
+        li_gong_ben_ke : 408,
+        li_gong_zhuan_ke : num,
+        student_count : num
+      },{      
+        name : '海南',     
+        wen_shi_zhong_dian : 582,
+        wen_shi_ben_ke : 575,
+        wen_shi_zhuan_ke : 436,
+        li_gong_zhong_dian : 542,
+        li_gong_ben_ke : 527,
+        li_gong_zhuan_ke : 390,
+        student_count : num
+      },{   
+        name : '甘肃',    
+        wen_shi_zhong_dian : 535,
+        wen_shi_ben_ke : 476,
+        wen_shi_zhuan_ke : 420,
+        li_gong_zhong_dian : 558,
+        li_gong_ben_ke : 498,
+        li_gong_zhuan_ke : 430,
+        student_count : num
+      },{                    
+        name : '河北',             
+        wen_shi_zhong_dian : 536,
+        wen_shi_ben_ke : 500,
+        wen_shi_zhuan_ke : 300,
+        li_gong_zhong_dian : 551,
+        li_gong_ben_ke : 511,
+        li_gong_zhuan_ke : 300,
+        student_count : num
+      },{  
+        name : '上海',        
+        wen_shi_zhong_dian : 497,
+        wen_shi_ben_ke : 444,
+        wen_shi_zhuan_ke : 347,
+        li_gong_zhong_dian : 494,
+        li_gong_ben_ke : 413,
+        li_gong_zhuan_ke : 343,
+        student_count : num
+      },{                     
+        name : '吉林',                 
+        wen_shi_zhong_dian : 559,
+        wen_shi_ben_ke : 479,
+        wen_shi_zhuan_ke : num,
+        li_gong_zhong_dian : 562,
+        li_gong_ben_ke : 456,
+        li_gong_zhuan_ke : num,
+        student_count : num
+      },{      
+        name : '湖北',
+        wen_shi_zhong_dian : 506,         
+        wen_shi_ben_ke : 478,
+        wen_shi_zhuan_ke : 370,
+        li_gong_zhong_dian : 524,
+        li_gong_ben_ke : 492,
+        li_gong_zhuan_ke : 370,
+        student_count : num
+      },{                            
+        name : '河南',             
+        wen_shi_zhong_dian : 565,
+        wen_shi_ben_ke : 522,
+        wen_shi_zhuan_ke : 437,
+        li_gong_zhong_dian : 568,
+        li_gong_ben_ke : 523,
+        li_gong_zhuan_ke : 436,
+        student_count : num
+      },{        
+        name : '湖南',
+        wen_shi_zhong_dian : 574,        
+        wen_shi_ben_ke : 533,
+        wen_shi_zhuan_ke : 270,
+        li_gong_zhong_dian : 544,
+        li_gong_ben_ke : 491,
+        li_gong_zhuan_ke : 240,
+        student_count : num
+      },{                            
+        name : '江西',
+        wen_shi_zhong_dian : 554,
+        wen_shi_ben_ke : 509,
+        wen_shi_zhuan_ke : num,
+        li_gong_zhong_dian : 545,
+        li_gong_ben_ke : 494,
+        li_gong_zhuan_ke : num,
+        student_count : num
+      },{        
+        name : '江苏',
+        wen_shi_zhong_dian : 560,
+        wen_shi_ben_ke : 529,
+        wen_shi_zhuan_ke : num,
+        li_gong_zhong_dian : num,
+        li_gong_ben_ke : num,
+        li_gong_zhuan_ke : num,
+        student_count : num
+      },{                            
+        name : '新疆',
+        wen_shi_zhong_dian : 516,
+        wen_shi_ben_ke : 455,        
+        wen_shi_zhuan_ke : 290,
+        li_gong_zhong_dian : 507,
+        li_gong_ben_ke : 433,
+        li_gong_zhuan_ke : 270,
+        student_count : num
+      },{         
+        name : '内蒙古',        
+        wen_shi_zhong_dian : 525,
+        wen_shi_ben_ke : 470,           
+        wen_shi_zhuan_ke : num,
+        li_gong_zhong_dian : 555,
+        li_gong_ben_ke : 489,
+        li_gong_zhuan_ke : num,
+        student_count : num
+      },{           
+        name : '黑龙江',
+        wen_shi_zhong_dian : 556,
+        wen_shi_ben_ke : 501,
+        wen_shi_zhuan_ke : num,
+        li_gong_zhong_dian : 582,          
+        li_gong_ben_ke : 527,
+        li_gong_zhuan_ke : num,
+        student_count : num
+      },{          
+        name : '广东',   
+        wen_shi_zhong_dian : 632,
+        wen_shi_ben_ke : 559,
+        wen_shi_zhuan_ke : 502,
+        li_gong_zhong_dian : num,
+        li_gong_ben_ke : num,
+        li_gong_zhuan_ke : num,
+        student_count : num
+      },{                            
+        name : '广西',
+        wen_shi_zhong_dian : 564,
+        wen_shi_ben_ke : 504,
+        wen_shi_zhuan_ke : 329,
+        li_gong_zhong_dian : 572,
+        li_gong_ben_ke : 501,
+        li_gong_zhuan_ke : 280,
+        student_count : num
+      },{                                   
+        name : '贵州',
+        wen_shi_zhong_dian : 556,
+        wen_shi_ben_ke : 476,               
+        wen_shi_zhuan_ke : num,
+        li_gong_zhong_dian : 536,
+        li_gong_ben_ke : 459,
+        li_gong_zhuan_ke : num,
+        student_count : num
+      },{                                            
+        name : '云南',
+        wen_shi_zhong_dian : 535,        
+        wen_shi_ben_ke : 480,
+        wen_shi_zhuan_ke : 440,
+        li_gong_zhong_dian : 530,
+        li_gong_ben_ke : 460,
+        li_gong_zhuan_ke : 415,
+        student_count : num
+      },{                                           
+        name : '西藏',
+        wen_shi_zhong_dian : 490,
+        wen_shi_ben_ke : 340,
+        wen_shi_zhuan_ke : 310,
+        li_gong_zhong_dian : 520,
+        li_gong_ben_ke : 370,
+        li_gong_zhuan_ke : 300,
+        student_count : num
+      },{                                  
+        name : '福建',             
+        wen_shi_zhong_dian : 555,
+        wen_shi_ben_ke : 492,
+        wen_shi_zhuan_ke : 375,
+        li_gong_zhong_dian : 542,
+        li_gong_ben_ke : 470,
+        li_gong_zhuan_ke : 248,
+        student_count : num
+      },{                                           
+        name : '青海',     
+        wen_shi_zhong_dian : 442,        
+        wen_shi_ben_ke : 358,
+        wen_shi_zhuan_ke : 240,
+        li_gong_zhong_dian : 430,
+        li_gong_ben_ke : 365,
+        li_gong_zhuan_ke : 240,
+        student_count : num
+      }
+
+    ]
+  },
+  {
+    year : '2006',
+    provinces : [
+      {   　             
+        name : '宁夏',
+        wen_shi_zhong_dian : 516,
+        wen_shi_ben_ke : 471,
+        wen_shi_zhuan_ke : num,
+        li_gong_zhong_dian : 514,
+        li_gong_ben_ke : 469,
+        li_gong_zhuan_ke : num,
+        student_count : num
+      },
+      {       
+        name : '浙江',  　            　
+        wen_shi_zhong_dian : 583,
+        wen_shi_ben_ke : 550,
+        wen_shi_zhuan_ke : 491,
+        li_gong_zhong_dian : 570,
+        li_gong_ben_ke : 527,
+        li_gong_zhuan_ke : 448,
+        student_count : num
+      },
+      {              
+        name : '陕西',              
+        wen_shi_zhong_dian : 560,
+        wen_shi_ben_ke : 520,
+        wen_shi_zhuan_ke : 300,
+        li_gong_zhong_dian : 545,
+        li_gong_ben_ke : 505,
+        li_gong_zhuan_ke : 285,
+        student_count : num
+      },
+      {          　   
+        name : '山东',
+        wen_shi_zhong_dian : 568,
+        wen_shi_ben_ke : num,
+        wen_shi_zhuan_ke : 280,
+        li_gong_zhong_dian : 583,
+        li_gong_ben_ke : num,
+        li_gong_zhuan_ke : 280,
+        student_count : num
+      },
+      {                     
+        name : '山西',  　    
+        wen_shi_zhong_dian : 561,          
+        wen_shi_ben_ke : 528,
+        wen_shi_zhuan_ke : num,
+        li_gong_zhong_dian : 552,
+        li_gong_ben_ke : 515,
+        li_gong_zhuan_ke : num,
+        student_count : num
+      },
+      {                    
+        name : '重庆',                 
+        wen_shi_zhong_dian : 556,
+        wen_shi_ben_ke : 486,
+        wen_shi_zhuan_ke : 418,
+        li_gong_zhong_dian : 531,
+        li_gong_ben_ke : 476,
+        li_gong_zhuan_ke : 420,
+        student_count : num
+      },{                     
+        name : '安徽',  　               　
+        wen_shi_zhong_dian : 573,
+        wen_shi_ben_ke : 523,
+        wen_shi_zhuan_ke : num,
+        li_gong_zhong_dian : 566,
+        li_gong_ben_ke : 504,
+        li_gong_zhuan_ke : num,
+        student_count : num
+      },{                    
+        name : '北京',             
+        wen_shi_zhong_dian : 516,
+        wen_shi_ben_ke : 476,
+        wen_shi_zhuan_ke : 338,
+        li_gong_zhong_dian : 528,
+        li_gong_ben_ke : 476,
+        li_gong_zhuan_ke : 350,
+        student_count : num
+      },{       
+        name : '四川',                
+        wen_shi_zhong_dian : 550,
+        wen_shi_ben_ke : 502,
+        wen_shi_zhuan_ke : 300,
+        li_gong_zhong_dian : 560,
+        li_gong_ben_ke : 512,
+        li_gong_zhuan_ke : 300,
+        student_count : num
+      },{               
+        name : '辽宁', 　     　   
+        wen_shi_zhong_dian : 538,
+        wen_shi_ben_ke : 469,
+        wen_shi_zhuan_ke : 375,
+        li_gong_zhong_dian : 503,
+        li_gong_ben_ke : 430,
+        li_gong_zhuan_ke : 320,
+        student_count : num
+      },{ 
+        name : '天津',          
+        wen_shi_zhong_dian : 477,
+        wen_shi_ben_ke : 436,
+        wen_shi_zhuan_ke : 350,
+        li_gong_zhong_dian : 505,
+        li_gong_ben_ke : 455,
+        li_gong_zhuan_ke : 340,
+        student_count : num
+      },{      
+        name : '海南',     
+        wen_shi_zhong_dian : 613,
+        wen_shi_ben_ke : 559,
+        wen_shi_zhuan_ke : num,
+        li_gong_zhong_dian : 569,
+        li_gong_ben_ke : 518,
+        li_gong_zhuan_ke : num,
+        student_count : num
+      },{   
+        name : '甘肃',    
+        wen_shi_zhong_dian : 542,
+        wen_shi_ben_ke : 483,
+        wen_shi_zhuan_ke : 420,
+        li_gong_zhong_dian : 566,
+        li_gong_ben_ke : 512,
+        li_gong_zhuan_ke : 435,
+        student_count : num
+      },{                    
+        name : '河北',             
+        wen_shi_zhong_dian : 561,
+        wen_shi_ben_ke : 530,
+        wen_shi_zhuan_ke : 370,
+        li_gong_zhong_dian : 577,
+        li_gong_ben_ke : 540,
+        li_gong_zhuan_ke : 370,
+        student_count : num
+      },{  
+        name : '上海',        
+        wen_shi_zhong_dian : 490,
+        wen_shi_ben_ke : 450,
+        wen_shi_zhuan_ke : 294,
+        li_gong_zhong_dian : 466,
+        li_gong_ben_ke : 412,
+        li_gong_zhuan_ke : 280,
+        student_count : num
+      },{                     
+        name : '吉林',                 
+        wen_shi_zhong_dian : 550,
+        wen_shi_ben_ke : 480,
+        wen_shi_zhuan_ke : num,
+        li_gong_zhong_dian : 570,
+        li_gong_ben_ke : 480,
+        li_gong_zhuan_ke : num,
+        student_count : num
+      },{      
+        name : '湖北',
+        wen_shi_zhong_dian : 545,         
+        wen_shi_ben_ke : 519,
+        wen_shi_zhuan_ke : 410,
+        li_gong_zhong_dian : 546,
+        li_gong_ben_ke : 516,
+        li_gong_zhuan_ke : 410,
+        student_count : num
+      },{                            
+        name : '河南',             
+        wen_shi_zhong_dian : 591,
+        wen_shi_ben_ke : 547,
+        wen_shi_zhuan_ke : 467,
+        li_gong_zhong_dian : 590,
+        li_gong_ben_ke : 548,
+        li_gong_zhuan_ke : 480,
+        student_count : num
+      },{        
+        name : '湖南',
+        wen_shi_zhong_dian : 593,        
+        wen_shi_ben_ke : 556,
+        wen_shi_zhuan_ke : 320,
+        li_gong_zhong_dian : 547,
+        li_gong_ben_ke : 496,
+        li_gong_zhuan_ke : 280,
+        student_count : num
+      },{                            
+        name : '江西',
+        wen_shi_zhong_dian : 563,
+        wen_shi_ben_ke : 520,
+        wen_shi_zhuan_ke : num,
+        li_gong_zhong_dian : 550,
+        li_gong_ben_ke : 496,
+        li_gong_zhuan_ke : num,
+        student_count : num
+      },{        
+        name : '江苏',
+        wen_shi_zhong_dian : 572,
+        wen_shi_ben_ke : 542,
+        wen_shi_zhuan_ke : 470,
+        li_gong_zhong_dian : 572,
+        li_gong_ben_ke : 542,
+        li_gong_zhuan_ke : 470,
+        student_count : num
+      },{                            
+        name : '新疆',
+        wen_shi_zhong_dian : 517,
+        wen_shi_ben_ke : 452,        
+        wen_shi_zhuan_ke : 295,
+        li_gong_zhong_dian : 520,
+        li_gong_ben_ke : 448,
+        li_gong_zhuan_ke : 275,
+        student_count : num
+      },{         
+        name : '内蒙古',        
+        wen_shi_zhong_dian : 530,
+        wen_shi_ben_ke : 481,           
+        wen_shi_zhuan_ke : 345,
+        li_gong_zhong_dian : 557,
+        li_gong_ben_ke : 495,
+        li_gong_zhuan_ke : 310,
+        student_count : num
+      },{           
+        name : '黑龙江',
+        wen_shi_zhong_dian : 557,
+        wen_shi_ben_ke : 492,
+        wen_shi_zhuan_ke : 220,
+        li_gong_zhong_dian : 578,          
+        li_gong_ben_ke : 516,
+        li_gong_zhuan_ke : 200,
+        student_count : num
+      },{          
+        name : '广东',   
+        wen_shi_zhong_dian : 637,
+        wen_shi_ben_ke : 571,
+        wen_shi_zhuan_ke : 505,
+        li_gong_zhong_dian : 637,
+        li_gong_ben_ke : 571,
+        li_gong_zhuan_ke : 505,
+        student_count : num
+      },{                            
+        name : '广西',
+        wen_shi_zhong_dian : 558,
+        wen_shi_ben_ke : 500,
+        wen_shi_zhuan_ke : 280,
+        li_gong_zhong_dian : 538,
+        li_gong_ben_ke : 473,
+        li_gong_zhuan_ke : 280,
+        student_count : num
+      },{                                   
+        name : '贵州',
+        wen_shi_zhong_dian : 528,
+        wen_shi_ben_ke : 463,               
+        wen_shi_zhuan_ke : num,
+        li_gong_zhong_dian : 523,
+        li_gong_ben_ke : 464,
+        li_gong_zhuan_ke : num,
+        student_count : num
+      },{                                            
+        name : '云南',
+        wen_shi_zhong_dian : 550,        
+        wen_shi_ben_ke : 505,
+        wen_shi_zhuan_ke : 465,
+        li_gong_zhong_dian : 550,
+        li_gong_ben_ke : 485,
+        li_gong_zhuan_ke : 440,
+        student_count : num
+      },{                                           
+        name : '西藏',
+        wen_shi_zhong_dian : 495,
+        wen_shi_ben_ke : 352,
+        wen_shi_zhuan_ke : 320,
+        li_gong_zhong_dian : 505,
+        li_gong_ben_ke : 370,
+        li_gong_zhuan_ke : 300,
+        student_count : num
+      },{                                  
+        name : '福建',             
+        wen_shi_zhong_dian : 574,
+        wen_shi_ben_ke : 514,
+        wen_shi_zhuan_ke : 394,
+        li_gong_zhong_dian : 561,
+        li_gong_ben_ke : 490,
+        li_gong_zhuan_ke : 314,
+        student_count : num
+      },{                                           
+        name : '青海',     
+        wen_shi_zhong_dian : 452,        
+        wen_shi_ben_ke : 386,
+        wen_shi_zhuan_ke : 315,
+        li_gong_zhong_dian : 434,
+        li_gong_ben_ke : 374,
+        li_gong_zhuan_ke : 320,
+        student_count : num
+      }
+
+    ]
+  },
+  {
+    year : '2007',
+    provinces : [
+      {   　             
+        name : '宁夏',
+        wen_shi_zhong_dian : 548,
+        wen_shi_ben_ke : 503,
+        wen_shi_zhuan_ke : num,
+        li_gong_zhong_dian : 531,
+        li_gong_ben_ke : 493,
+        li_gong_zhuan_ke : num,
+        student_count : num
+      },
+      {       
+        name : '浙江',  　            　
+        wen_shi_zhong_dian : 553,
+        wen_shi_ben_ke : 523,
+        wen_shi_zhuan_ke : 385,
+        li_gong_zhong_dian : 568,
+        li_gong_ben_ke : 523,
+        li_gong_zhuan_ke : 347,
+        student_count : num
+      },
+      {              
+        name : '陕西',              
+        wen_shi_zhong_dian : 567,
+        wen_shi_ben_ke : 530,
+        wen_shi_zhuan_ke : 320,
+        li_gong_zhong_dian : 527,
+        li_gong_ben_ke : 490,
+        li_gong_zhuan_ke : 290,
+        student_count : num
+      },
+      {          　   
+        name : '山东',
+        wen_shi_zhong_dian : 593,
+        wen_shi_ben_ke : num,
+        wen_shi_zhuan_ke : num,
+        li_gong_zhong_dian : 573    ,
+        li_gong_ben_ke : num,
+        li_gong_zhuan_ke : num,
+        student_count : num
+      },
+      {                     
+        name : '山西',  　    
+        wen_shi_zhong_dian : 580,          
+        wen_shi_ben_ke : 553,
+        wen_shi_zhuan_ke : num,
+        li_gong_zhong_dian : 572,
+        li_gong_ben_ke : 539,
+        li_gong_zhuan_ke : num,
+        student_count : num
+      },
+      {                    
+        name : '重庆',                 
+        wen_shi_zhong_dian : 540,
+        wen_shi_ben_ke : 476,
+        wen_shi_zhuan_ke : 413,
+        li_gong_zhong_dian : 505,
+        li_gong_ben_ke : 450,
+        li_gong_zhuan_ke : 394,
+        student_count : num
+      },{                     
+        name : '安徽',  　               　
+        wen_shi_zhong_dian : 551,
+        wen_shi_ben_ke : 515,
+        wen_shi_zhuan_ke : 448,
+        li_gong_zhong_dian : 563,
+        li_gong_ben_ke : 505,
+        li_gong_zhuan_ke : 415,
+        student_count : num
+      },{                    
+        name : '北京',             
+        wen_shi_zhong_dian : 528,
+        wen_shi_ben_ke : 486,
+        wen_shi_zhuan_ke : 376,
+        li_gong_zhong_dian : 531,
+        li_gong_ben_ke : 478,
+        li_gong_zhuan_ke : 452,
+        student_count : num
+      },{       
+        name : '四川',                
+        wen_shi_zhong_dian : 559,
+        wen_shi_ben_ke : 510,
+        wen_shi_zhuan_ke : 308,
+        li_gong_zhong_dian : 533,
+        li_gong_ben_ke : 474,
+        li_gong_zhuan_ke : 300,
+        student_count : num
+      },{               
+        name : '辽宁', 　     　   
+        wen_shi_zhong_dian : 538,
+        wen_shi_ben_ke : 472,
+        wen_shi_zhuan_ke : 372,
+        li_gong_zhong_dian : 519,
+        li_gong_ben_ke : 433,
+        li_gong_zhuan_ke : 318,
+        student_count : num
+      },{ 
+        name : '天津',          
+        wen_shi_zhong_dian : 513,
+        wen_shi_ben_ke : 473,
+        wen_shi_zhuan_ke : num,
+        li_gong_zhong_dian : 509,
+        li_gong_ben_ke : 453,
+        li_gong_zhuan_ke : num,
+        student_count : num
+      },{      
+        name : '海南',     
+        wen_shi_zhong_dian : 562,
+        wen_shi_ben_ke : 526,
+        wen_shi_zhuan_ke : 330,
+        li_gong_zhong_dian : 535,
+        li_gong_ben_ke : 487,
+        li_gong_zhuan_ke : 290,
+        student_count : num
+      },{   
+        name : '甘肃',    
+        wen_shi_zhong_dian : 564,
+        wen_shi_ben_ke : 503,
+        wen_shi_zhuan_ke : num,
+        li_gong_zhong_dian : 562,
+        li_gong_ben_ke : 516,
+        li_gong_zhuan_ke : num,
+        student_count : num
+      },{                    
+        name : '河北',             
+        wen_shi_zhong_dian : 566,
+        wen_shi_ben_ke : 538,
+        wen_shi_zhuan_ke : 335,
+        li_gong_zhong_dian : 587,
+        li_gong_ben_ke : 549,
+        li_gong_zhuan_ke : 275,
+        student_count : num
+      },{  
+        name : '上海',        
+        wen_shi_zhong_dian : 465,
+        wen_shi_ben_ke : 424,
+        wen_shi_zhuan_ke : 280,
+        li_gong_zhong_dian : 461,
+        li_gong_ben_ke : 394,
+        li_gong_zhuan_ke : 267,
+        student_count : num
+      },{                     
+        name : '吉林',                 
+        wen_shi_zhong_dian : 567,
+        wen_shi_ben_ke : 487,
+        wen_shi_zhuan_ke : num,
+        li_gong_zhong_dian : 574,
+        li_gong_ben_ke : 487,
+        li_gong_zhuan_ke : num,
+        student_count : num
+      },{      
+        name : '湖北',
+        wen_shi_zhong_dian : 525,         
+        wen_shi_ben_ke : 500,
+        wen_shi_zhuan_ke : 400,
+        li_gong_zhong_dian : 548,
+        li_gong_ben_ke : 517,
+        li_gong_zhuan_ke : 400,
+        student_count : num
+      },{                            
+        name : '河南',             
+        wen_shi_zhong_dian : 589,
+        wen_shi_ben_ke : 552,
+        wen_shi_zhuan_ke : 470,
+        li_gong_zhong_dian : 596,
+        li_gong_ben_ke : 553,
+        li_gong_zhuan_ke : 470,
+        student_count : num
+      },{        
+        name : '湖南',
+        wen_shi_zhong_dian : 562,        
+        wen_shi_ben_ke : 526,
+        wen_shi_zhuan_ke : 330,
+        li_gong_zhong_dian : 535,
+        li_gong_ben_ke : 487,
+        li_gong_zhuan_ke : 290,
+        student_count : num
+      },{                            
+        name : '江西',
+        wen_shi_zhong_dian : 573,
+        wen_shi_ben_ke : 538,
+        wen_shi_zhuan_ke : num,
+        li_gong_zhong_dian : 571,
+        li_gong_ben_ke : 521,
+        li_gong_zhuan_ke : num,
+        student_count : num
+      },{        
+        name : '江苏',
+        wen_shi_zhong_dian : 588,
+        wen_shi_ben_ke : 559,
+        wen_shi_zhuan_ke : 549,
+        li_gong_zhong_dian : 588,
+        li_gong_ben_ke : 559,
+        li_gong_zhuan_ke : 549,
+        student_count : num
+      },{                            
+        name : '新疆',
+        wen_shi_zhong_dian : 520,
+        wen_shi_ben_ke : 457,        
+        wen_shi_zhuan_ke : 295,
+        li_gong_zhong_dian : 518,
+        li_gong_ben_ke : 452,
+        li_gong_zhuan_ke : 290,
+        student_count : num
+      },{         
+        name : '内蒙古',        
+        wen_shi_zhong_dian : 559,
+        wen_shi_ben_ke : 515,           
+        wen_shi_zhuan_ke : num,
+        li_gong_zhong_dian : 559,
+        li_gong_ben_ke : 511,
+        li_gong_zhuan_ke : num,
+        student_count : num
+      },{           
+        name : '黑龙江',
+        wen_shi_zhong_dian : 567,
+        wen_shi_ben_ke : 499,
+        wen_shi_zhuan_ke : num,
+        li_gong_zhong_dian : 588,          
+        li_gong_ben_ke : 526,
+        li_gong_zhuan_ke : num,
+        student_count : num
+      },{          
+        name : '广东',   
+        wen_shi_zhong_dian : 591,
+        wen_shi_ben_ke : 551,
+        wen_shi_zhuan_ke : 493,
+        li_gong_zhong_dian : 557,
+        li_gong_ben_ke : 502,
+        li_gong_zhuan_ke : 434,
+        student_count : num
+      },{                            
+        name : '广西',
+        wen_shi_zhong_dian : 574,
+        wen_shi_ben_ke : 522,
+        wen_shi_zhuan_ke : 300,
+        li_gong_zhong_dian : 545,
+        li_gong_ben_ke : 481,
+        li_gong_zhuan_ke : 300,
+        student_count : num
+      },{                                   
+        name : '贵州',
+        wen_shi_zhong_dian : 567,
+        wen_shi_ben_ke : 496,               
+        wen_shi_zhuan_ke : num,
+        li_gong_zhong_dian : 536,
+        li_gong_ben_ke : 487,
+        li_gong_zhuan_ke : num,
+        student_count : num
+      },{                                            
+        name : '云南',
+        wen_shi_zhong_dian : 575,        
+        wen_shi_ben_ke : 530,
+        wen_shi_zhuan_ke : 475,
+        li_gong_zhong_dian : 560,
+        li_gong_ben_ke : 500,
+        li_gong_zhuan_ke : 450,
+        student_count : num
+      },{                                           
+        name : '西藏',
+        wen_shi_zhong_dian : 515,
+        wen_shi_ben_ke : 370,
+        wen_shi_zhuan_ke : 330,
+        li_gong_zhong_dian : 515,
+        li_gong_ben_ke : 370,
+        li_gong_zhuan_ke : 300,
+        student_count : num
+      },{                                  
+        name : '福建',             
+        wen_shi_zhong_dian : 565,
+        wen_shi_ben_ke : 505,
+        wen_shi_zhuan_ke : 319,
+        li_gong_zhong_dian : 562,
+        li_gong_ben_ke : 495,
+        li_gong_zhuan_ke : 319,
+        student_count : num
+      },{                                           
+        name : '青海',     
+        wen_shi_zhong_dian : 495,        
+        wen_shi_ben_ke : 418,
+        wen_shi_zhuan_ke : 370,
+        li_gong_zhong_dian : 467,
+        li_gong_ben_ke : 405,
+        li_gong_zhuan_ke : 362,
+        student_count : num
+      }
+
+    ]
+  }
+]
